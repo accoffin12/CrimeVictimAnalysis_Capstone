@@ -1,961 +1,961 @@
-﻿rpt_dt,sex,age_group,age_gm,ofns_desc,ncic,vic_num
-1993,Female,12-14,1,Rape/sexual assault,1101,47196
-1994,Female,12-14,1,Rape/sexual assault,1101,49561
-1995,Female,12-14,1,Rape/sexual assault,1101,38205
-1996,Female,12-14,1,Rape/sexual assault,1101,28399
-1997,Female,12-14,1,Rape/sexual assault,1101,50766
-1998,Female,12-14,1,Rape/sexual assault,1101,49005
-1999,Female,12-14,1,Rape/sexual assault,1101,56336
-2000,Female,12-14,1,Rape/sexual assault,1101,37159
-2001,Female,12-14,1,Rape/sexual assault,1101,59401
-2002,Female,12-14,1,Rape/sexual assault,1101,61670
-2003,Female,12-14,1,Rape/sexual assault,1101,0
-2004,Female,12-14,1,Rape/sexual assault,1101,25343
-2005,Female,12-14,1,Rape/sexual assault,1101,19843
-2006,Female,12-14,1,Rape/sexual assault,1101,21770
-2007,Female,12-14,1,Rape/sexual assault,1101,10454
-2008,Female,12-14,1,Rape/sexual assault,1101,7891
-2009,Female,12-14,1,Rape/sexual assault,1101,35538
-2010,Female,12-14,1,Rape/sexual assault,1101,28145
-2011,Female,12-14,1,Rape/sexual assault,1101,3961
-2012,Female,12-14,1,Rape/sexual assault,1101,23289
-2013,Female,12-14,1,Rape/sexual assault,1101,8103
-2014,Female,12-14,1,Rape/sexual assault,1101,2267
-2015,Female,12-14,1,Rape/sexual assault,1101,21922
-2016,Female,12-14,1,Rape/sexual assault,1101,3829
-2017,Female,12-14,1,Rape/sexual assault,1101,15968
-2018,Female,12-14,1,Rape/sexual assault,1101,24633
-2019,Female,12-14,1,Rape/sexual assault,1101,9935
-2020,Female,12-14,1,Rape/sexual assault,1101,2707
-2021,Female,12-14,1,Rape/sexual assault,1101,1387
-2022,Female,12-14,1,Rape/sexual assault,1101,17101
-1993,Female,12-14,1,Robbery,1201,44832
-1994,Female,12-14,1,Robbery,1201,35269
-1995,Female,12-14,1,Robbery,1201,30451
-1996,Female,12-14,1,Robbery,1201,17217
-1997,Female,12-14,1,Robbery,1201,39928
-1998,Female,12-14,1,Robbery,1201,35945
-1999,Female,12-14,1,Robbery,1201,13268
-2000,Female,12-14,1,Robbery,1201,12344
-2001,Female,12-14,1,Robbery,1201,32397
-2002,Female,12-14,1,Robbery,1201,5073
-2003,Female,12-14,1,Robbery,1201,19164
-2004,Female,12-14,1,Robbery,1201,3194
-2005,Female,12-14,1,Robbery,1201,17213
-2006,Female,12-14,1,Robbery,1201,58123
-2007,Female,12-14,1,Robbery,1201,32676
-2008,Female,12-14,1,Robbery,1201,50902
-2009,Female,12-14,1,Robbery,1201,4359
-2010,Female,12-14,1,Robbery,1201,2092
-2011,Female,12-14,1,Robbery,1201,12603
-2012,Female,12-14,1,Robbery,1201,2145
-2013,Female,12-14,1,Robbery,1201,20314
-2014,Female,12-14,1,Robbery,1201,8413
-2015,Female,12-14,1,Robbery,1201,8440
-2016,Female,12-14,1,Robbery,1201,0
-2017,Female,12-14,1,Robbery,1201,3732
-2018,Female,12-14,1,Robbery,1201,8952
-2019,Female,12-14,1,Robbery,1201,0
-2020,Female,12-14,1,Robbery,1201,9341
-2021,Female,12-14,1,Robbery,1201,0
-2022,Female,12-14,1,Robbery,1201,9424
-1993,Female,12-14,1,Aggravated assault,1301,135504
-1994,Female,12-14,1,Aggravated assault,1301,96742
-1995,Female,12-14,1,Aggravated assault,1301,64519
-1996,Female,12-14,1,Aggravated assault,1301,59739
-1997,Female,12-14,1,Aggravated assault,1301,85701
-1998,Female,12-14,1,Aggravated assault,1301,109796
-1999,Female,12-14,1,Aggravated assault,1301,69594
-2000,Female,12-14,1,Aggravated assault,1301,26926
-2001,Female,12-14,1,Aggravated assault,1301,28872
-2002,Female,12-14,1,Aggravated assault,1301,22511
-2003,Female,12-14,1,Aggravated assault,1301,34082
-2004,Female,12-14,1,Aggravated assault,1301,30915
-2005,Female,12-14,1,Aggravated assault,1301,19735
-2006,Female,12-14,1,Aggravated assault,1301,40041
-2007,Female,12-14,1,Aggravated assault,1301,11179
-2008,Female,12-14,1,Aggravated assault,1301,41111
-2009,Female,12-14,1,Aggravated assault,1301,64145
-2010,Female,12-14,1,Aggravated assault,1301,23037
-2011,Female,12-14,1,Aggravated assault,1301,22243
-2012,Female,12-14,1,Aggravated assault,1301,9306
-2013,Female,12-14,1,Aggravated assault,1301,17080
-2014,Female,12-14,1,Aggravated assault,1301,25864
-2015,Female,12-14,1,Aggravated assault,1301,34135
-2016,Female,12-14,1,Aggravated assault,1301,35696
-2017,Female,12-14,1,Aggravated assault,1301,7605
-2018,Female,12-14,1,Aggravated assault,1301,13462
-2019,Female,12-14,1,Aggravated assault,1301,8996
-2020,Female,12-14,1,Aggravated assault,1301,0
-2021,Female,12-14,1,Aggravated assault,1301,29634
-2022,Female,12-14,1,Aggravated assault,1301,8474
-1993,Female,12-14,1,Simple assault,1313,629099
-1994,Female,12-14,1,Simple assault,1313,820235
-1995,Female,12-14,1,Simple assault,1313,586566
-1996,Female,12-14,1,Simple assault,1313,471253
-1997,Female,12-14,1,Simple assault,1313,479545
-1998,Female,12-14,1,Simple assault,1313,351818
-1999,Female,12-14,1,Simple assault,1313,332784
-2000,Female,12-14,1,Simple assault,1313,238282
-2001,Female,12-14,1,Simple assault,1313,236647
-2002,Female,12-14,1,Simple assault,1313,261782
-2003,Female,12-14,1,Simple assault,1313,237402
-2004,Female,12-14,1,Simple assault,1313,217255
-2005,Female,12-14,1,Simple assault,1313,168663
-2006,Female,12-14,1,Simple assault,1313,178711
-2007,Female,12-14,1,Simple assault,1313,253120
-2008,Female,12-14,1,Simple assault,1313,160767
-2009,Female,12-14,1,Simple assault,1313,158245
-2010,Female,12-14,1,Simple assault,1313,96362
-2011,Female,12-14,1,Simple assault,1313,160120
-2012,Female,12-14,1,Simple assault,1313,225055
-2013,Female,12-14,1,Simple assault,1313,239922
-2014,Female,12-14,1,Simple assault,1313,128468
-2015,Female,12-14,1,Simple assault,1313,222088
-2016,Female,12-14,1,Simple assault,1313,80781
-2017,Female,12-14,1,Simple assault,1313,117664
-2018,Female,12-14,1,Simple assault,1313,89676
-2019,Female,12-14,1,Simple assault,1313,128891
-2020,Female,12-14,1,Simple assault,1313,68326
-2021,Female,12-14,1,Simple assault,1313,52102
-2022,Female,12-14,1,Simple assault,1313,127470
-1993,Female,15- 17,1,Rape/sexual assault,1101,94319
-1994,Female,15- 17,1,Rape/sexual assault,1101,115622
-1995,Female,15- 17,1,Rape/sexual assault,1101,51609
-1996,Female,15- 17,1,Rape/sexual assault,1101,65477
-1997,Female,15- 17,1,Rape/sexual assault,1101,118910
-1998,Female,15- 17,1,Rape/sexual assault,1101,70442
-1999,Female,15- 17,1,Rape/sexual assault,1101,96714
-2000,Female,15- 17,1,Rape/sexual assault,1101,28949
-2001,Female,15- 17,1,Rape/sexual assault,1101,59293
-2002,Female,15- 17,1,Rape/sexual assault,1101,33999
-2003,Female,15- 17,1,Rape/sexual assault,1101,59204
-2004,Female,15- 17,1,Rape/sexual assault,1101,26549
-2005,Female,15- 17,1,Rape/sexual assault,1101,18493
-2006,Female,15- 17,1,Rape/sexual assault,1101,56009
-2007,Female,15- 17,1,Rape/sexual assault,1101,35327
-2008,Female,15- 17,1,Rape/sexual assault,1101,35633
-2009,Female,15- 17,1,Rape/sexual assault,1101,19692
-2010,Female,15- 17,1,Rape/sexual assault,1101,15670
-2011,Female,15- 17,1,Rape/sexual assault,1101,20995
-2012,Female,15- 17,1,Rape/sexual assault,1101,12060
-2013,Female,15- 17,1,Rape/sexual assault,1101,18266
-2014,Female,15- 17,1,Rape/sexual assault,1101,9114
-2015,Female,15- 17,1,Rape/sexual assault,1101,11784
-2016,Female,15- 17,1,Rape/sexual assault,1101,19819
-2017,Female,15- 17,1,Rape/sexual assault,1101,15970
-2018,Female,15- 17,1,Rape/sexual assault,1101,54576
-2019,Female,15- 17,1,Rape/sexual assault,1101,54359
-2020,Female,15- 17,1,Rape/sexual assault,1101,32946
-2021,Female,15- 17,1,Rape/sexual assault,1101,7492
-2022,Female,15- 17,1,Rape/sexual assault,1101,40823
-1993,Female,15- 17,1,Robbery,1201,39822
-1994,Female,15- 17,1,Robbery,1201,56467
-1995,Female,15- 17,1,Robbery,1201,50030
-1996,Female,15- 17,1,Robbery,1201,84660
-1997,Female,15- 17,1,Robbery,1201,39039
-1998,Female,15- 17,1,Robbery,1201,23938
-1999,Female,15- 17,1,Robbery,1201,49313
-2000,Female,15- 17,1,Robbery,1201,16315
-2001,Female,15- 17,1,Robbery,1201,9757
-2002,Female,15- 17,1,Robbery,1201,18388
-2003,Female,15- 17,1,Robbery,1201,72650
-2004,Female,15- 17,1,Robbery,1201,7760
-2005,Female,15- 17,1,Robbery,1201,14826
-2006,Female,15- 17,1,Robbery,1201,3470
-2007,Female,15- 17,1,Robbery,1201,3959
-2008,Female,15- 17,1,Robbery,1201,8964
-2009,Female,15- 17,1,Robbery,1201,8691
-2010,Female,15- 17,1,Robbery,1201,51317
-2011,Female,15- 17,1,Robbery,1201,8598
-2012,Female,15- 17,1,Robbery,1201,9338
-2013,Female,15- 17,1,Robbery,1201,12840
-2014,Female,15- 17,1,Robbery,1201,8614
-2015,Female,15- 17,1,Robbery,1201,13425
-2016,Female,15- 17,1,Robbery,1201,7363
-2017,Female,15- 17,1,Robbery,1201,12449
-2018,Female,15- 17,1,Robbery,1201,7964
-2019,Female,15- 17,1,Robbery,1201,27361
-2020,Female,15- 17,1,Robbery,1201,0
-2021,Female,15- 17,1,Robbery,1201,8321
-2022,Female,15- 17,1,Robbery,1201,1592
-1993,Female,15- 17,1,Aggravated assault,1301,90199
-1994,Female,15- 17,1,Aggravated assault,1301,135564
-1995,Female,15- 17,1,Aggravated assault,1301,126640
-1996,Female,15- 17,1,Aggravated assault,1301,128698
-1997,Female,15- 17,1,Aggravated assault,1301,93838
-1998,Female,15- 17,1,Aggravated assault,1301,72516
-1999,Female,15- 17,1,Aggravated assault,1301,104884
-2000,Female,15- 17,1,Aggravated assault,1301,28953
-2001,Female,15- 17,1,Aggravated assault,1301,50344
-2002,Female,15- 17,1,Aggravated assault,1301,30945
-2003,Female,15- 17,1,Aggravated assault,1301,104015
-2004,Female,15- 17,1,Aggravated assault,1301,23131
-2005,Female,15- 17,1,Aggravated assault,1301,48509
-2006,Female,15- 17,1,Aggravated assault,1301,60580
-2007,Female,15- 17,1,Aggravated assault,1301,152306
-2008,Female,15- 17,1,Aggravated assault,1301,16612
-2009,Female,15- 17,1,Aggravated assault,1301,28783
-2010,Female,15- 17,1,Aggravated assault,1301,48633
-2011,Female,15- 17,1,Aggravated assault,1301,25978
-2012,Female,15- 17,1,Aggravated assault,1301,9837
-2013,Female,15- 17,1,Aggravated assault,1301,29117
-2014,Female,15- 17,1,Aggravated assault,1301,18357
-2015,Female,15- 17,1,Aggravated assault,1301,9721
-2016,Female,15- 17,1,Aggravated assault,1301,12662
-2017,Female,15- 17,1,Aggravated assault,1301,20481
-2018,Female,15- 17,1,Aggravated assault,1301,24876
-2019,Female,15- 17,1,Aggravated assault,1301,9980
-2020,Female,15- 17,1,Aggravated assault,1301,39849
-2021,Female,15- 17,1,Aggravated assault,1301,8222
-2022,Female,15- 17,1,Aggravated assault,1301,21629
-1993,Female,15- 17,1,Simple assault,1313,370940
-1994,Female,15- 17,1,Simple assault,1313,348382
-1995,Female,15- 17,1,Simple assault,1313,415087
-1996,Female,15- 17,1,Simple assault,1313,381774
-1997,Female,15- 17,1,Simple assault,1313,449128
-1998,Female,15- 17,1,Simple assault,1313,309912
-1999,Female,15- 17,1,Simple assault,1313,497493
-2000,Female,15- 17,1,Simple assault,1313,312376
-2001,Female,15- 17,1,Simple assault,1313,300305
-2002,Female,15- 17,1,Simple assault,1313,309932
-2003,Female,15- 17,1,Simple assault,1313,262217
-2004,Female,15- 17,1,Simple assault,1313,136627
-2005,Female,15- 17,1,Simple assault,1313,278268
-2006,Female,15- 17,1,Simple assault,1313,315525
-2007,Female,15- 17,1,Simple assault,1313,166254
-2008,Female,15- 17,1,Simple assault,1313,139058
-2009,Female,15- 17,1,Simple assault,1313,128416
-2010,Female,15- 17,1,Simple assault,1313,56495
-2011,Female,15- 17,1,Simple assault,1313,107417
-2012,Female,15- 17,1,Simple assault,1313,202483
-2013,Female,15- 17,1,Simple assault,1313,226340
-2014,Female,15- 17,1,Simple assault,1313,154137
-2015,Female,15- 17,1,Simple assault,1313,74882
-2016,Female,15- 17,1,Simple assault,1313,53632
-2017,Female,15- 17,1,Simple assault,1313,117011
-2018,Female,15- 17,1,Simple assault,1313,99221
-2019,Female,15- 17,1,Simple assault,1313,141376
-2020,Female,15- 17,1,Simple assault,1313,45581
-2021,Female,15- 17,1,Simple assault,1313,21809
-2022,Female,15- 17,1,Simple assault,1313,98254
-1993,Female,18- 20,2,Rape/sexual assault,1101,150581
-1994,Female,18- 20,2,Rape/sexual assault,1101,81728
-1995,Female,18- 20,2,Rape/sexual assault,1101,61370
-1996,Female,18- 20,2,Rape/sexual assault,1101,41912
-1997,Female,18- 20,2,Rape/sexual assault,1101,46933
-1998,Female,18- 20,2,Rape/sexual assault,1101,53122
-1999,Female,18- 20,2,Rape/sexual assault,1101,88403
-2000,Female,18- 20,2,Rape/sexual assault,1101,69221
-2001,Female,18- 20,2,Rape/sexual assault,1101,80521
-2002,Female,18- 20,2,Rape/sexual assault,1101,83256
-2003,Female,18- 20,2,Rape/sexual assault,1101,11951
-2004,Female,18- 20,2,Rape/sexual assault,1101,38540
-2005,Female,18- 20,2,Rape/sexual assault,1101,35072
-2006,Female,18- 20,2,Rape/sexual assault,1101,37559
-2007,Female,18- 20,2,Rape/sexual assault,1101,24098
-2008,Female,18- 20,2,Rape/sexual assault,1101,52398
-2009,Female,18- 20,2,Rape/sexual assault,1101,4784
-2010,Female,18- 20,2,Rape/sexual assault,1101,13790
-2011,Female,18- 20,2,Rape/sexual assault,1101,32334
-2012,Female,18- 20,2,Rape/sexual assault,1101,62079
-2013,Female,18- 20,2,Rape/sexual assault,1101,42333
-2014,Female,18- 20,2,Rape/sexual assault,1101,14870
-2015,Female,18- 20,2,Rape/sexual assault,1101,35531
-2016,Female,18- 20,2,Rape/sexual assault,1101,40992
-2017,Female,18- 20,2,Rape/sexual assault,1101,101040
-2018,Female,18- 20,2,Rape/sexual assault,1101,122765
-2019,Female,18- 20,2,Rape/sexual assault,1101,87728
-2020,Female,18- 20,2,Rape/sexual assault,1101,60719
-2021,Female,18- 20,2,Rape/sexual assault,1101,56904
-2022,Female,18- 20,2,Rape/sexual assault,1101,70226
-1993,Female,18- 20,2,Robbery,1201,34506
-1994,Female,18- 20,2,Robbery,1201,43200
-1995,Female,18- 20,2,Robbery,1201,24296
-1996,Female,18- 20,2,Robbery,1201,71419
-1997,Female,18- 20,2,Robbery,1201,56892
-1998,Female,18- 20,2,Robbery,1201,45614
-1999,Female,18- 20,2,Robbery,1201,45697
-2000,Female,18- 20,2,Robbery,1201,22679
-2001,Female,18- 20,2,Robbery,1201,15542
-2002,Female,18- 20,2,Robbery,1201,19471
-2003,Female,18- 20,2,Robbery,1201,16335
-2004,Female,18- 20,2,Robbery,1201,20327
-2005,Female,18- 20,2,Robbery,1201,58192
-2006,Female,18- 20,2,Robbery,1201,29645
-2007,Female,18- 20,2,Robbery,1201,12178
-2008,Female,18- 20,2,Robbery,1201,21655
-2009,Female,18- 20,2,Robbery,1201,11660
-2010,Female,18- 20,2,Robbery,1201,29366
-2011,Female,18- 20,2,Robbery,1201,26525
-2012,Female,18- 20,2,Robbery,1201,13921
-2013,Female,18- 20,2,Robbery,1201,18554
-2014,Female,18- 20,2,Robbery,1201,4521
-2015,Female,18- 20,2,Robbery,1201,19291
-2016,Female,18- 20,2,Robbery,1201,4825
-2017,Female,18- 20,2,Robbery,1201,20648
-2018,Female,18- 20,2,Robbery,1201,17935
-2019,Female,18- 20,2,Robbery,1201,5350
-2020,Female,18- 20,2,Robbery,1201,34146
-2021,Female,18- 20,2,Robbery,1201,41276
-2022,Female,18- 20,2,Robbery,1201,15083
-1993,Female,18- 20,2,Aggravated assault,1301,135035
-1994,Female,18- 20,2,Aggravated assault,1301,104813
-1995,Female,18- 20,2,Aggravated assault,1301,124563
-1996,Female,18- 20,2,Aggravated assault,1301,118739
-1997,Female,18- 20,2,Aggravated assault,1301,152936
-1998,Female,18- 20,2,Aggravated assault,1301,64885
-1999,Female,18- 20,2,Aggravated assault,1301,79491
-2000,Female,18- 20,2,Aggravated assault,1301,42178
-2001,Female,18- 20,2,Aggravated assault,1301,68512
-2002,Female,18- 20,2,Aggravated assault,1301,67197
-2003,Female,18- 20,2,Aggravated assault,1301,106686
-2004,Female,18- 20,2,Aggravated assault,1301,86925
-2005,Female,18- 20,2,Aggravated assault,1301,33539
-2006,Female,18- 20,2,Aggravated assault,1301,57331
-2007,Female,18- 20,2,Aggravated assault,1301,21299
-2008,Female,18- 20,2,Aggravated assault,1301,59225
-2009,Female,18- 20,2,Aggravated assault,1301,32639
-2010,Female,18- 20,2,Aggravated assault,1301,67154
-2011,Female,18- 20,2,Aggravated assault,1301,52787
-2012,Female,18- 20,2,Aggravated assault,1301,46475
-2013,Female,18- 20,2,Aggravated assault,1301,35808
-2014,Female,18- 20,2,Aggravated assault,1301,14016
-2015,Female,18- 20,2,Aggravated assault,1301,18466
-2016,Female,18- 20,2,Aggravated assault,1301,16211
-2017,Female,18- 20,2,Aggravated assault,1301,44730
-2018,Female,18- 20,2,Aggravated assault,1301,18338
-2019,Female,18- 20,2,Aggravated assault,1301,23504
-2020,Female,18- 20,2,Aggravated assault,1301,20597
-2021,Female,18- 20,2,Aggravated assault,1301,9736
-2022,Female,18- 20,2,Aggravated assault,1301,97415
-1993,Female,18- 20,2,Simple assault,1313,342448
-1994,Female,18- 20,2,Simple assault,1313,411872
-1995,Female,18- 20,2,Simple assault,1313,484182
-1996,Female,18- 20,2,Simple assault,1313,407416
-1997,Female,18- 20,2,Simple assault,1313,364448
-1998,Female,18- 20,2,Simple assault,1313,416007
-1999,Female,18- 20,2,Simple assault,1313,289706
-2000,Female,18- 20,2,Simple assault,1313,218516
-2001,Female,18- 20,2,Simple assault,1313,190670
-2002,Female,18- 20,2,Simple assault,1313,270649
-2003,Female,18- 20,2,Simple assault,1313,279629
-2004,Female,18- 20,2,Simple assault,1313,193032
-2005,Female,18- 20,2,Simple assault,1313,150625
-2006,Female,18- 20,2,Simple assault,1313,240745
-2007,Female,18- 20,2,Simple assault,1313,194968
-2008,Female,18- 20,2,Simple assault,1313,115732
-2009,Female,18- 20,2,Simple assault,1313,118870
-2010,Female,18- 20,2,Simple assault,1313,141896
-2011,Female,18- 20,2,Simple assault,1313,291840
-2012,Female,18- 20,2,Simple assault,1313,156266
-2013,Female,18- 20,2,Simple assault,1313,182762
-2014,Female,18- 20,2,Simple assault,1313,66173
-2015,Female,18- 20,2,Simple assault,1313,81604
-2016,Female,18- 20,2,Simple assault,1313,64411
-2017,Female,18- 20,2,Simple assault,1313,96278
-2018,Female,18- 20,2,Simple assault,1313,226274
-2019,Female,18- 20,2,Simple assault,1313,166145
-2020,Female,18- 20,2,Simple assault,1313,62516
-2021,Female,18- 20,2,Simple assault,1313,71029
-2022,Female,18- 20,2,Simple assault,1313,43017
-1993,Female,21- 24,2,Rape/sexual assault,1101,159460
-1994,Female,21- 24,2,Rape/sexual assault,1101,62656
-1995,Female,21- 24,2,Rape/sexual assault,1101,56703
-1996,Female,21- 24,2,Rape/sexual assault,1101,56034
-1997,Female,21- 24,2,Rape/sexual assault,1101,48049
-1998,Female,21- 24,2,Rape/sexual assault,1101,73980
-1999,Female,21- 24,2,Rape/sexual assault,1101,48424
-2000,Female,21- 24,2,Rape/sexual assault,1101,75478
-2001,Female,21- 24,2,Rape/sexual assault,1101,53164
-2002,Female,21- 24,2,Rape/sexual assault,1101,27628
-2003,Female,21- 24,2,Rape/sexual assault,1101,87777
-2004,Female,21- 24,2,Rape/sexual assault,1101,32958
-2005,Female,21- 24,2,Rape/sexual assault,1101,15038
-2006,Female,21- 24,2,Rape/sexual assault,1101,71203
-2007,Female,21- 24,2,Rape/sexual assault,1101,46942
-2008,Female,21- 24,2,Rape/sexual assault,1101,28488
-2009,Female,21- 24,2,Rape/sexual assault,1101,120398
-2010,Female,21- 24,2,Rape/sexual assault,1101,68769
-2011,Female,21- 24,2,Rape/sexual assault,1101,24111
-2012,Female,21- 24,2,Rape/sexual assault,1101,14276
-2013,Female,21- 24,2,Rape/sexual assault,1101,19530
-2014,Female,21- 24,2,Rape/sexual assault,1101,63500
-2015,Female,21- 24,2,Rape/sexual assault,1101,19899
-2016,Female,21- 24,2,Rape/sexual assault,1101,19094
-2017,Female,21- 24,2,Rape/sexual assault,1101,37284
-2018,Female,21- 24,2,Rape/sexual assault,1101,81179
-2019,Female,21- 24,2,Rape/sexual assault,1101,91291
-2020,Female,21- 24,2,Rape/sexual assault,1101,58544
-2021,Female,21- 24,2,Rape/sexual assault,1101,47747
-2022,Female,21- 24,2,Rape/sexual assault,1101,57210
-1993,Female,21- 24,2,Robbery,1201,84138
-1994,Female,21- 24,2,Robbery,1201,85052
-1995,Female,21- 24,2,Robbery,1201,53685
-1996,Female,21- 24,2,Robbery,1201,53901
-1997,Female,21- 24,2,Robbery,1201,33175
-1998,Female,21- 24,2,Robbery,1201,58050
-1999,Female,21- 24,2,Robbery,1201,21295
-2000,Female,21- 24,2,Robbery,1201,56582
-2001,Female,21- 24,2,Robbery,1201,14790
-2002,Female,21- 24,2,Robbery,1201,44863
-2003,Female,21- 24,2,Robbery,1201,68675
-2004,Female,21- 24,2,Robbery,1201,17436
-2005,Female,21- 24,2,Robbery,1201,20234
-2006,Female,21- 24,2,Robbery,1201,33273
-2007,Female,21- 24,2,Robbery,1201,28803
-2008,Female,21- 24,2,Robbery,1201,44467
-2009,Female,21- 24,2,Robbery,1201,17624
-2010,Female,21- 24,2,Robbery,1201,37479
-2011,Female,21- 24,2,Robbery,1201,25770
-2012,Female,21- 24,2,Robbery,1201,49715
-2013,Female,21- 24,2,Robbery,1201,19556
-2014,Female,21- 24,2,Robbery,1201,33484
-2015,Female,21- 24,2,Robbery,1201,60517
-2016,Female,21- 24,2,Robbery,1201,46849
-2017,Female,21- 24,2,Robbery,1201,32832
-2018,Female,21- 24,2,Robbery,1201,19874
-2019,Female,21- 24,2,Robbery,1201,20140
-2020,Female,21- 24,2,Robbery,1201,43934
-2021,Female,21- 24,2,Robbery,1201,16536
-2022,Female,21- 24,2,Robbery,1201,24924
-1993,Female,21- 24,2,Aggravated assault,1301,152189
-1994,Female,21- 24,2,Aggravated assault,1301,136311
-1995,Female,21- 24,2,Aggravated assault,1301,125763
-1996,Female,21- 24,2,Aggravated assault,1301,160513
-1997,Female,21- 24,2,Aggravated assault,1301,124791
-1998,Female,21- 24,2,Aggravated assault,1301,142042
-1999,Female,21- 24,2,Aggravated assault,1301,57861
-2000,Female,21- 24,2,Aggravated assault,1301,52019
-2001,Female,21- 24,2,Aggravated assault,1301,43006
-2002,Female,21- 24,2,Aggravated assault,1301,128157
-2003,Female,21- 24,2,Aggravated assault,1301,63394
-2004,Female,21- 24,2,Aggravated assault,1301,70472
-2005,Female,21- 24,2,Aggravated assault,1301,126972
-2006,Female,21- 24,2,Aggravated assault,1301,114522
-2007,Female,21- 24,2,Aggravated assault,1301,28909
-2008,Female,21- 24,2,Aggravated assault,1301,63952
-2009,Female,21- 24,2,Aggravated assault,1301,80623
-2010,Female,21- 24,2,Aggravated assault,1301,49348
-2011,Female,21- 24,2,Aggravated assault,1301,50220
-2012,Female,21- 24,2,Aggravated assault,1301,36981
-2013,Female,21- 24,2,Aggravated assault,1301,27331
-2014,Female,21- 24,2,Aggravated assault,1301,40876
-2015,Female,21- 24,2,Aggravated assault,1301,38712
-2016,Female,21- 24,2,Aggravated assault,1301,50245
-2017,Female,21- 24,2,Aggravated assault,1301,79602
-2018,Female,21- 24,2,Aggravated assault,1301,50054
-2019,Female,21- 24,2,Aggravated assault,1301,49194
-2020,Female,21- 24,2,Aggravated assault,1301,30010
-2021,Female,21- 24,2,Aggravated assault,1301,39545
-2022,Female,21- 24,2,Aggravated assault,1301,93662
-1993,Female,21- 24,2,Simple assault,1313,506603
-1994,Female,21- 24,2,Simple assault,1313,620518
-1995,Female,21- 24,2,Simple assault,1313,561957
-1996,Female,21- 24,2,Simple assault,1313,465148
-1997,Female,21- 24,2,Simple assault,1313,556624
-1998,Female,21- 24,2,Simple assault,1313,472725
-1999,Female,21- 24,2,Simple assault,1313,373239
-2000,Female,21- 24,2,Simple assault,1313,294061
-2001,Female,21- 24,2,Simple assault,1313,328601
-2002,Female,21- 24,2,Simple assault,1313,195865
-2003,Female,21- 24,2,Simple assault,1313,336617
-2004,Female,21- 24,2,Simple assault,1313,316705
-2005,Female,21- 24,2,Simple assault,1313,237308
-2006,Female,21- 24,2,Simple assault,1313,299442
-2007,Female,21- 24,2,Simple assault,1313,223860
-2008,Female,21- 24,2,Simple assault,1313,314803
-2009,Female,21- 24,2,Simple assault,1313,192480
-2010,Female,21- 24,2,Simple assault,1313,124397
-2011,Female,21- 24,2,Simple assault,1313,142261
-2012,Female,21- 24,2,Simple assault,1313,235027
-2013,Female,21- 24,2,Simple assault,1313,243193
-2014,Female,21- 24,2,Simple assault,1313,151818
-2015,Female,21- 24,2,Simple assault,1313,134137
-2016,Female,21- 24,2,Simple assault,1313,200902
-2017,Female,21- 24,2,Simple assault,1313,138664
-2018,Female,21- 24,2,Simple assault,1313,161460
-2019,Female,21- 24,2,Simple assault,1313,181316
-2020,Female,21- 24,2,Simple assault,1313,110809
-2021,Female,21- 24,2,Simple assault,1313,62649
-2022,Female,21- 24,2,Simple assault,1313,196127
-1993,Female,25- 34,3,Rape/sexual assault,1101,177894
-1994,Female,25- 34,3,Rape/sexual assault,1101,212186
-1995,Female,25- 34,3,Rape/sexual assault,1101,77800
-1996,Female,25- 34,3,Rape/sexual assault,1101,110576
-1997,Female,25- 34,3,Rape/sexual assault,1101,112184
-1998,Female,25- 34,3,Rape/sexual assault,1101,59606
-1999,Female,25- 34,3,Rape/sexual assault,1101,113690
-2000,Female,25- 34,3,Rape/sexual assault,1101,73265
-2001,Female,25- 34,3,Rape/sexual assault,1101,38566
-2002,Female,25- 34,3,Rape/sexual assault,1101,21065
-2003,Female,25- 34,3,Rape/sexual assault,1101,69502
-2004,Female,25- 34,3,Rape/sexual assault,1101,27416
-2005,Female,25- 34,3,Rape/sexual assault,1101,25349
-2006,Female,25- 34,3,Rape/sexual assault,1101,49188
-2007,Female,25- 34,3,Rape/sexual assault,1101,47081
-2008,Female,25- 34,3,Rape/sexual assault,1101,50686
-2009,Female,25- 34,3,Rape/sexual assault,1101,29435
-2010,Female,25- 34,3,Rape/sexual assault,1101,51661
-2011,Female,25- 34,3,Rape/sexual assault,1101,39776
-2012,Female,25- 34,3,Rape/sexual assault,1101,32397
-2013,Female,25- 34,3,Rape/sexual assault,1101,55279
-2014,Female,25- 34,3,Rape/sexual assault,1101,88461
-2015,Female,25- 34,3,Rape/sexual assault,1101,134949
-2016,Female,25- 34,3,Rape/sexual assault,1101,102028
-2017,Female,25- 34,3,Rape/sexual assault,1101,48616
-2018,Female,25- 34,3,Rape/sexual assault,1101,154997
-2019,Female,25- 34,3,Rape/sexual assault,1101,43724
-2020,Female,25- 34,3,Rape/sexual assault,1101,64003
-2021,Female,25- 34,3,Rape/sexual assault,1101,90031
-2022,Female,25- 34,3,Rape/sexual assault,1101,87888
-1993,Female,25- 34,3,Robbery,1201,254643
-1994,Female,25- 34,3,Robbery,1201,134422
-1995,Female,25- 34,3,Robbery,1201,144217
-1996,Female,25- 34,3,Robbery,1201,169478
-1997,Female,25- 34,3,Robbery,1201,97196
-1998,Female,25- 34,3,Robbery,1201,78311
-1999,Female,25- 34,3,Robbery,1201,79528
-2000,Female,25- 34,3,Robbery,1201,73339
-2001,Female,25- 34,3,Robbery,1201,56386
-2002,Female,25- 34,3,Robbery,1201,69468
-2003,Female,25- 34,3,Robbery,1201,52371
-2004,Female,25- 34,3,Robbery,1201,104522
-2005,Female,25- 34,3,Robbery,1201,29796
-2006,Female,25- 34,3,Robbery,1201,119981
-2007,Female,25- 34,3,Robbery,1201,135622
-2008,Female,25- 34,3,Robbery,1201,94166
-2009,Female,25- 34,3,Robbery,1201,74752
-2010,Female,25- 34,3,Robbery,1201,47419
-2011,Female,25- 34,3,Robbery,1201,42821
-2012,Female,25- 34,3,Robbery,1201,71854
-2013,Female,25- 34,3,Robbery,1201,96630
-2014,Female,25- 34,3,Robbery,1201,44419
-2015,Female,25- 34,3,Robbery,1201,36500
-2016,Female,25- 34,3,Robbery,1201,46991
-2017,Female,25- 34,3,Robbery,1201,54376
-2018,Female,25- 34,3,Robbery,1201,51512
-2019,Female,25- 34,3,Robbery,1201,40266
-2020,Female,25- 34,3,Robbery,1201,41128
-2021,Female,25- 34,3,Robbery,1201,60664
-2022,Female,25- 34,3,Robbery,1201,73217
-1993,Female,25- 34,3,Aggravated assault,1301,311796
-1994,Female,25- 34,3,Aggravated assault,1301,451111
-1995,Female,25- 34,3,Aggravated assault,1301,291409
-1996,Female,25- 34,3,Aggravated assault,1301,274484
-1997,Female,25- 34,3,Aggravated assault,1301,244596
-1998,Female,25- 34,3,Aggravated assault,1301,170444
-1999,Female,25- 34,3,Aggravated assault,1301,213536
-2000,Female,25- 34,3,Aggravated assault,1301,108539
-2001,Female,25- 34,3,Aggravated assault,1301,133113
-2002,Female,25- 34,3,Aggravated assault,1301,158790
-2003,Female,25- 34,3,Aggravated assault,1301,117048
-2004,Female,25- 34,3,Aggravated assault,1301,78565
-2005,Female,25- 34,3,Aggravated assault,1301,115012
-2006,Female,25- 34,3,Aggravated assault,1301,165333
-2007,Female,25- 34,3,Aggravated assault,1301,82778
-2008,Female,25- 34,3,Aggravated assault,1301,130832
-2009,Female,25- 34,3,Aggravated assault,1301,71589
-2010,Female,25- 34,3,Aggravated assault,1301,77095
-2011,Female,25- 34,3,Aggravated assault,1301,124367
-2012,Female,25- 34,3,Aggravated assault,1301,124571
-2013,Female,25- 34,3,Aggravated assault,1301,77783
-2014,Female,25- 34,3,Aggravated assault,1301,63396
-2015,Female,25- 34,3,Aggravated assault,1301,68226
-2016,Female,25- 34,3,Aggravated assault,1301,157967
-2017,Female,25- 34,3,Aggravated assault,1301,97867
-2018,Female,25- 34,3,Aggravated assault,1301,114359
-2019,Female,25- 34,3,Aggravated assault,1301,68500
-2020,Female,25- 34,3,Aggravated assault,1301,111091
-2021,Female,25- 34,3,Aggravated assault,1301,72262
-2022,Female,25- 34,3,Aggravated assault,1301,130791
-1993,Female,25- 34,3,Simple assault,1313,998892
-1994,Female,25- 34,3,Simple assault,1313,1286595
-1995,Female,25- 34,3,Simple assault,1313,1239149
-1996,Female,25- 34,3,Simple assault,1313,1095489
-1997,Female,25- 34,3,Simple assault,1313,910561
-1998,Female,25- 34,3,Simple assault,1313,755624
-1999,Female,25- 34,3,Simple assault,1313,778426
-2000,Female,25- 34,3,Simple assault,1313,620361
-2001,Female,25- 34,3,Simple assault,1313,503624
-2002,Female,25- 34,3,Simple assault,1313,529346
-2003,Female,25- 34,3,Simple assault,1313,502278
-2004,Female,25- 34,3,Simple assault,1313,389517
-2005,Female,25- 34,3,Simple assault,1313,357115
-2006,Female,25- 34,3,Simple assault,1313,565934
-2007,Female,25- 34,3,Simple assault,1313,380894
-2008,Female,25- 34,3,Simple assault,1313,422539
-2009,Female,25- 34,3,Simple assault,1313,434064
-2010,Female,25- 34,3,Simple assault,1313,404074
-2011,Female,25- 34,3,Simple assault,1313,295435
-2012,Female,25- 34,3,Simple assault,1313,443711
-2013,Female,25- 34,3,Simple assault,1313,374174
-2014,Female,25- 34,3,Simple assault,1313,390481
-2015,Female,25- 34,3,Simple assault,1313,298816
-2016,Female,25- 34,3,Simple assault,1313,432634
-2017,Female,25- 34,3,Simple assault,1313,384580
-2018,Female,25- 34,3,Simple assault,1313,541494
-2019,Female,25- 34,3,Simple assault,1313,349879
-2020,Female,25- 34,3,Simple assault,1313,310395
-2021,Female,25- 34,3,Simple assault,1313,219449
-2022,Female,25- 34,3,Simple assault,1313,454143
-1993,Female,35- 49,3,Rape/sexual assault,1101,185272
-1994,Female,35- 49,3,Rape/sexual assault,1101,91764
-1995,Female,35- 49,3,Rape/sexual assault,1101,203254
-1996,Female,35- 49,3,Rape/sexual assault,1101,87286
-1997,Female,35- 49,3,Rape/sexual assault,1101,117908
-1998,Female,35- 49,3,Rape/sexual assault,1101,51725
-1999,Female,35- 49,3,Rape/sexual assault,1101,141550
-2000,Female,35- 49,3,Rape/sexual assault,1101,50027
-2001,Female,35- 49,3,Rape/sexual assault,1101,126838
-2002,Female,35- 49,3,Rape/sexual assault,1101,44954
-2003,Female,35- 49,3,Rape/sexual assault,1101,40015
-2004,Female,35- 49,3,Rape/sexual assault,1101,60178
-2005,Female,35- 49,3,Rape/sexual assault,1101,47883
-2006,Female,35- 49,3,Rape/sexual assault,1101,98489
-2007,Female,35- 49,3,Rape/sexual assault,1101,59487
-2008,Female,35- 49,3,Rape/sexual assault,1101,120604
-2009,Female,35- 49,3,Rape/sexual assault,1101,56751
-2010,Female,35- 49,3,Rape/sexual assault,1101,72533
-2011,Female,35- 49,3,Rape/sexual assault,1101,42221
-2012,Female,35- 49,3,Rape/sexual assault,1101,50630
-2013,Female,35- 49,3,Rape/sexual assault,1101,47099
-2014,Female,35- 49,3,Rape/sexual assault,1101,61752
-2015,Female,35- 49,3,Rape/sexual assault,1101,65949
-2016,Female,35- 49,3,Rape/sexual assault,1101,40599
-2017,Female,35- 49,3,Rape/sexual assault,1101,114293
-2018,Female,35- 49,3,Rape/sexual assault,1101,163618
-2019,Female,35- 49,3,Rape/sexual assault,1101,75740
-2020,Female,35- 49,3,Rape/sexual assault,1101,43509
-2021,Female,35- 49,3,Rape/sexual assault,1101,36838
-2022,Female,35- 49,3,Rape/sexual assault,1101,83151
-1993,Female,35- 49,3,Robbery,1201,105851
-1994,Female,35- 49,3,Robbery,1201,197421
-1995,Female,35- 49,3,Robbery,1201,141333
-1996,Female,35- 49,3,Robbery,1201,106384
-1997,Female,35- 49,3,Robbery,1201,152247
-1998,Female,35- 49,3,Robbery,1201,132217
-1999,Female,35- 49,3,Robbery,1201,156954
-2000,Female,35- 49,3,Robbery,1201,76144
-2001,Female,35- 49,3,Robbery,1201,51306
-2002,Female,35- 49,3,Robbery,1201,34951
-2003,Female,35- 49,3,Robbery,1201,63670
-2004,Female,35- 49,3,Robbery,1201,56401
-2005,Female,35- 49,3,Robbery,1201,44376
-2006,Female,35- 49,3,Robbery,1201,110007
-2007,Female,35- 49,3,Robbery,1201,78239
-2008,Female,35- 49,3,Robbery,1201,88691
-2009,Female,35- 49,3,Robbery,1201,75486
-2010,Female,35- 49,3,Robbery,1201,41381
-2011,Female,35- 49,3,Robbery,1201,57497
-2012,Female,35- 49,3,Robbery,1201,35449
-2013,Female,35- 49,3,Robbery,1201,64370
-2014,Female,35- 49,3,Robbery,1201,50783
-2015,Female,35- 49,3,Robbery,1201,113399
-2016,Female,35- 49,3,Robbery,1201,29865
-2017,Female,35- 49,3,Robbery,1201,70508
-2018,Female,35- 49,3,Robbery,1201,85861
-2019,Female,35- 49,3,Robbery,1201,55384
-2020,Female,35- 49,3,Robbery,1201,32435
-2021,Female,35- 49,3,Robbery,1201,84565
-2022,Female,35- 49,3,Robbery,1201,76603
-1993,Female,35- 49,3,Aggravated assault,1301,224062
-1994,Female,35- 49,3,Aggravated assault,1301,267590
-1995,Female,35- 49,3,Aggravated assault,1301,174275
-1996,Female,35- 49,3,Aggravated assault,1301,221656
-1997,Female,35- 49,3,Aggravated assault,1301,320874
-1998,Female,35- 49,3,Aggravated assault,1301,193402
-1999,Female,35- 49,3,Aggravated assault,1301,172128
-2000,Female,35- 49,3,Aggravated assault,1301,121232
-2001,Female,35- 49,3,Aggravated assault,1301,182056
-2002,Female,35- 49,3,Aggravated assault,1301,142391
-2003,Female,35- 49,3,Aggravated assault,1301,111303
-2004,Female,35- 49,3,Aggravated assault,1301,155120
-2005,Female,35- 49,3,Aggravated assault,1301,103622
-2006,Female,35- 49,3,Aggravated assault,1301,194310
-2007,Female,35- 49,3,Aggravated assault,1301,135943
-2008,Female,35- 49,3,Aggravated assault,1301,101899
-2009,Female,35- 49,3,Aggravated assault,1301,56888
-2010,Female,35- 49,3,Aggravated assault,1301,61031
-2011,Female,35- 49,3,Aggravated assault,1301,106947
-2012,Female,35- 49,3,Aggravated assault,1301,149377
-2013,Female,35- 49,3,Aggravated assault,1301,79212
-2014,Female,35- 49,3,Aggravated assault,1301,142914
-2015,Female,35- 49,3,Aggravated assault,1301,133287
-2016,Female,35- 49,3,Aggravated assault,1301,115106
-2017,Female,35- 49,3,Aggravated assault,1301,99571
-2018,Female,35- 49,3,Aggravated assault,1301,129637
-2019,Female,35- 49,3,Aggravated assault,1301,94676
-2020,Female,35- 49,3,Aggravated assault,1301,97169
-2021,Female,35- 49,3,Aggravated assault,1301,106353
-2022,Female,35- 49,3,Aggravated assault,1301,190414
-1993,Female,35- 49,3,Simple assault,1313,1276452
-1994,Female,35- 49,3,Simple assault,1313,1221244
-1995,Female,35- 49,3,Simple assault,1313,1006091
-1996,Female,35- 49,3,Simple assault,1313,1052924
-1997,Female,35- 49,3,Simple assault,1313,1178054
-1998,Female,35- 49,3,Simple assault,1313,959667
-1999,Female,35- 49,3,Simple assault,1313,825566
-2000,Female,35- 49,3,Simple assault,1313,568297
-2001,Female,35- 49,3,Simple assault,1313,593522
-2002,Female,35- 49,3,Simple assault,1313,663480
-2003,Female,35- 49,3,Simple assault,1313,529703
-2004,Female,35- 49,3,Simple assault,1313,623576
-2005,Female,35- 49,3,Simple assault,1313,556881
-2006,Female,35- 49,3,Simple assault,1313,542373
-2007,Female,35- 49,3,Simple assault,1313,521298
-2008,Female,35- 49,3,Simple assault,1313,505086
-2009,Female,35- 49,3,Simple assault,1313,572958
-2010,Female,35- 49,3,Simple assault,1313,388458
-2011,Female,35- 49,3,Simple assault,1313,433210
-2012,Female,35- 49,3,Simple assault,1313,536435
-2013,Female,35- 49,3,Simple assault,1313,420533
-2014,Female,35- 49,3,Simple assault,1313,391085
-2015,Female,35- 49,3,Simple assault,1313,568916
-2016,Female,35- 49,3,Simple assault,1313,502567
-2017,Female,35- 49,3,Simple assault,1313,461122
-2018,Female,35- 49,3,Simple assault,1313,449497
-2019,Female,35- 49,3,Simple assault,1313,429830
-2020,Female,35- 49,3,Simple assault,1313,397779
-2021,Female,35- 49,3,Simple assault,1313,420808
-2022,Female,35- 49,3,Simple assault,1313,529626
-1993,Female,50- 64,4,Rape/sexual assault,1101,8155
-1994,Female,50- 64,4,Rape/sexual assault,1101,4311
-1995,Female,50- 64,4,Rape/sexual assault,1101,2543
-1996,Female,50- 64,4,Rape/sexual assault,1101,3482
-1997,Female,50- 64,4,Rape/sexual assault,1101,6464
-1998,Female,50- 64,4,Rape/sexual assault,1101,7836
-1999,Female,50- 64,4,Rape/sexual assault,1101,7007
-2000,Female,50- 64,4,Rape/sexual assault,1101,13256
-2001,Female,50- 64,4,Rape/sexual assault,1101,7604
-2002,Female,50- 64,4,Rape/sexual assault,1101,25898
-2003,Female,50- 64,4,Rape/sexual assault,1101,34217
-2004,Female,50- 64,4,Rape/sexual assault,1101,35867
-2005,Female,50- 64,4,Rape/sexual assault,1101,31002
-2006,Female,50- 64,4,Rape/sexual assault,1101,25630
-2007,Female,50- 64,4,Rape/sexual assault,1101,8806
-2008,Female,50- 64,4,Rape/sexual assault,1101,5126
-2009,Female,50- 64,4,Rape/sexual assault,1101,13417
-2010,Female,50- 64,4,Rape/sexual assault,1101,0
-2011,Female,50- 64,4,Rape/sexual assault,1101,16362
-2012,Female,50- 64,4,Rape/sexual assault,1101,14981
-2013,Female,50- 64,4,Rape/sexual assault,1101,69976
-2014,Female,50- 64,4,Rape/sexual assault,1101,13736
-2015,Female,50- 64,4,Rape/sexual assault,1101,69218
-2016,Female,50- 64,4,Rape/sexual assault,1101,19949
-2017,Female,50- 64,4,Rape/sexual assault,1101,20612
-2018,Female,50- 64,4,Rape/sexual assault,1101,35354
-2019,Female,50- 64,4,Rape/sexual assault,1101,38278
-2020,Female,50- 64,4,Rape/sexual assault,1101,25995
-2021,Female,50- 64,4,Rape/sexual assault,1101,32915
-2022,Female,50- 64,4,Rape/sexual assault,1101,48236
-1993,Female,50- 64,4,Robbery,1201,27137
-1994,Female,50- 64,4,Robbery,1201,36068
-1995,Female,50- 64,4,Robbery,1201,21427
-1996,Female,50- 64,4,Robbery,1201,51646
-1997,Female,50- 64,4,Robbery,1201,22296
-1998,Female,50- 64,4,Robbery,1201,28462
-1999,Female,50- 64,4,Robbery,1201,25038
-2000,Female,50- 64,4,Robbery,1201,24070
-2001,Female,50- 64,4,Robbery,1201,38014
-2002,Female,50- 64,4,Robbery,1201,34628
-2003,Female,50- 64,4,Robbery,1201,31469
-2004,Female,50- 64,4,Robbery,1201,51301
-2005,Female,50- 64,4,Robbery,1201,17921
-2006,Female,50- 64,4,Robbery,1201,14081
-2007,Female,50- 64,4,Robbery,1201,26240
-2008,Female,50- 64,4,Robbery,1201,17836
-2009,Female,50- 64,4,Robbery,1201,27357
-2010,Female,50- 64,4,Robbery,1201,51830
-2011,Female,50- 64,4,Robbery,1201,36021
-2012,Female,50- 64,4,Robbery,1201,50169
-2013,Female,50- 64,4,Robbery,1201,61388
-2014,Female,50- 64,4,Robbery,1201,99407
-2015,Female,50- 64,4,Robbery,1201,36776
-2016,Female,50- 64,4,Robbery,1201,54208
-2017,Female,50- 64,4,Robbery,1201,64366
-2018,Female,50- 64,4,Robbery,1201,39851
-2019,Female,50- 64,4,Robbery,1201,58012
-2020,Female,50- 64,4,Robbery,1201,29838
-2021,Female,50- 64,4,Robbery,1201,39083
-2022,Female,50- 64,4,Robbery,1201,76455
-1993,Female,50- 64,4,Aggravated assault,1301,58907
-1994,Female,50- 64,4,Aggravated assault,1301,85185
-1995,Female,50- 64,4,Aggravated assault,1301,61331
-1996,Female,50- 64,4,Aggravated assault,1301,92963
-1997,Female,50- 64,4,Aggravated assault,1301,36389
-1998,Female,50- 64,4,Aggravated assault,1301,85502
-1999,Female,50- 64,4,Aggravated assault,1301,55533
-2000,Female,50- 64,4,Aggravated assault,1301,31853
-2001,Female,50- 64,4,Aggravated assault,1301,41684
-2002,Female,50- 64,4,Aggravated assault,1301,31478
-2003,Female,50- 64,4,Aggravated assault,1301,26193
-2004,Female,50- 64,4,Aggravated assault,1301,78677
-2005,Female,50- 64,4,Aggravated assault,1301,51414
-2006,Female,50- 64,4,Aggravated assault,1301,108518
-2007,Female,50- 64,4,Aggravated assault,1301,37717
-2008,Female,50- 64,4,Aggravated assault,1301,36671
-2009,Female,50- 64,4,Aggravated assault,1301,126294
-2010,Female,50- 64,4,Aggravated assault,1301,42671
-2011,Female,50- 64,4,Aggravated assault,1301,65516
-2012,Female,50- 64,4,Aggravated assault,1301,29916
-2013,Female,50- 64,4,Aggravated assault,1301,109246
-2014,Female,50- 64,4,Aggravated assault,1301,112840
-2015,Female,50- 64,4,Aggravated assault,1301,118747
-2016,Female,50- 64,4,Aggravated assault,1301,80460
-2017,Female,50- 64,4,Aggravated assault,1301,83004
-2018,Female,50- 64,4,Aggravated assault,1301,82799
-2019,Female,50- 64,4,Aggravated assault,1301,89187
-2020,Female,50- 64,4,Aggravated assault,1301,63136
-2021,Female,50- 64,4,Aggravated assault,1301,39120
-2022,Female,50- 64,4,Aggravated assault,1301,99387
-1993,Female,50- 64,4,Simple assault,1313,161781
-1994,Female,50- 64,4,Simple assault,1313,256016
-1995,Female,50- 64,4,Simple assault,1313,247961
-1996,Female,50- 64,4,Simple assault,1313,239614
-1997,Female,50- 64,4,Simple assault,1313,196175
-1998,Female,50- 64,4,Simple assault,1313,244351
-1999,Female,50- 64,4,Simple assault,1313,238899
-2000,Female,50- 64,4,Simple assault,1313,329881
-2001,Female,50- 64,4,Simple assault,1313,169989
-2002,Female,50- 64,4,Simple assault,1313,260402
-2003,Female,50- 64,4,Simple assault,1313,281108
-2004,Female,50- 64,4,Simple assault,1313,228499
-2005,Female,50- 64,4,Simple assault,1313,228399
-2006,Female,50- 64,4,Simple assault,1313,269025
-2007,Female,50- 64,4,Simple assault,1313,244689
-2008,Female,50- 64,4,Simple assault,1313,273550
-2009,Female,50- 64,4,Simple assault,1313,270618
-2010,Female,50- 64,4,Simple assault,1313,277050
-2011,Female,50- 64,4,Simple assault,1313,218198
-2012,Female,50- 64,4,Simple assault,1313,358867
-2013,Female,50- 64,4,Simple assault,1313,397078
-2014,Female,50- 64,4,Simple assault,1313,344152
-2015,Female,50- 64,4,Simple assault,1313,296313
-2016,Female,50- 64,4,Simple assault,1313,393345
-2017,Female,50- 64,4,Simple assault,1313,390504
-2018,Female,50- 64,4,Simple assault,1313,400048
-2019,Female,50- 64,4,Simple assault,1313,484664
-2020,Female,50- 64,4,Simple assault,1313,370900
-2021,Female,50- 64,4,Simple assault,1313,379414
-2022,Female,50- 64,4,Simple assault,1313,296002
-1993,Female,65 +,5,Rape/sexual assault,1101,11837
-1994,Female,65 +,5,Rape/sexual assault,1101,0
-1995,Female,65 +,5,Rape/sexual assault,1101,1975
-1996,Female,65 +,5,Rape/sexual assault,1101,0
-1997,Female,65 +,5,Rape/sexual assault,1101,5848
-1998,Female,65 +,5,Rape/sexual assault,1101,0
-1999,Female,65 +,5,Rape/sexual assault,1101,0
-2000,Female,65 +,5,Rape/sexual assault,1101,4625
-2001,Female,65 +,5,Rape/sexual assault,1101,4001
-2002,Female,65 +,5,Rape/sexual assault,1101,4474
-2003,Female,65 +,5,Rape/sexual assault,1101,2973
-2004,Female,65 +,5,Rape/sexual assault,1101,2717
-2005,Female,65 +,5,Rape/sexual assault,1101,0
-2006,Female,65 +,5,Rape/sexual assault,1101,0
-2007,Female,65 +,5,Rape/sexual assault,1101,4786
-2008,Female,65 +,5,Rape/sexual assault,1101,9275
-2009,Female,65 +,5,Rape/sexual assault,1101,5744
-2010,Female,65 +,5,Rape/sexual assault,1101,2987
-2011,Female,65 +,5,Rape/sexual assault,1101,29625
-2012,Female,65 +,5,Rape/sexual assault,1101,5858
-2013,Female,65 +,5,Rape/sexual assault,1101,5522
-2014,Female,65 +,5,Rape/sexual assault,1101,2612
-2015,Female,65 +,5,Rape/sexual assault,1101,9668
-2016,Female,65 +,5,Rape/sexual assault,1101,6237
-2017,Female,65 +,5,Rape/sexual assault,1101,9611
-2018,Female,65 +,5,Rape/sexual assault,1101,15554
-2019,Female,65 +,5,Rape/sexual assault,1101,5915
-2020,Female,65 +,5,Rape/sexual assault,1101,10205
-2021,Female,65 +,5,Rape/sexual assault,1101,8729
-2022,Female,65 +,5,Rape/sexual assault,1101,38118
-1993,Female,65 +,5,Robbery,1201,18104
-1994,Female,65 +,5,Robbery,1201,17156
-1995,Female,65 +,5,Robbery,1201,17699
-1996,Female,65 +,5,Robbery,1201,19546
-1997,Female,65 +,5,Robbery,1201,8131
-1998,Female,65 +,5,Robbery,1201,6164
-1999,Female,65 +,5,Robbery,1201,8811
-2000,Female,65 +,5,Robbery,1201,15783
-2001,Female,65 +,5,Robbery,1201,22220
-2002,Female,65 +,5,Robbery,1201,20562
-2003,Female,65 +,5,Robbery,1201,18451
-2004,Female,65 +,5,Robbery,1201,4335
-2005,Female,65 +,5,Robbery,1201,6162
-2006,Female,65 +,5,Robbery,1201,17867
-2007,Female,65 +,5,Robbery,1201,12886
-2008,Female,65 +,5,Robbery,1201,2529
-2009,Female,65 +,5,Robbery,1201,5386
-2010,Female,65 +,5,Robbery,1201,5229
-2011,Female,65 +,5,Robbery,1201,7914
-2012,Female,65 +,5,Robbery,1201,11503
-2013,Female,65 +,5,Robbery,1201,2755
-2014,Female,65 +,5,Robbery,1201,19026
-2015,Female,65 +,5,Robbery,1201,7819
-2016,Female,65 +,5,Robbery,1201,465
-2017,Female,65 +,5,Robbery,1201,10569
-2018,Female,65 +,5,Robbery,1201,20447
-2019,Female,65 +,5,Robbery,1201,14434
-2020,Female,65 +,5,Robbery,1201,14279
-2021,Female,65 +,5,Robbery,1201,20154
-2022,Female,65 +,5,Robbery,1201,56878
-1993,Female,65 +,5,Aggravated assault,1301,36930
-1994,Female,65 +,5,Aggravated assault,1301,28417
-1995,Female,65 +,5,Aggravated assault,1301,6775
-1996,Female,65 +,5,Aggravated assault,1301,9102
-1997,Female,65 +,5,Aggravated assault,1301,9420
-1998,Female,65 +,5,Aggravated assault,1301,6001
-1999,Female,65 +,5,Aggravated assault,1301,16582
-2000,Female,65 +,5,Aggravated assault,1301,12510
-2001,Female,65 +,5,Aggravated assault,1301,21789
-2002,Female,65 +,5,Aggravated assault,1301,4482
-2003,Female,65 +,5,Aggravated assault,1301,4342
-2004,Female,65 +,5,Aggravated assault,1301,2378
-2005,Female,65 +,5,Aggravated assault,1301,4741
-2006,Female,65 +,5,Aggravated assault,1301,5407
-2007,Female,65 +,5,Aggravated assault,1301,5825
-2008,Female,65 +,5,Aggravated assault,1301,7096
-2009,Female,65 +,5,Aggravated assault,1301,2057
-2010,Female,65 +,5,Aggravated assault,1301,1223
-2011,Female,65 +,5,Aggravated assault,1301,5058
-2012,Female,65 +,5,Aggravated assault,1301,16531
-2013,Female,65 +,5,Aggravated assault,1301,13070
-2014,Female,65 +,5,Aggravated assault,1301,13757
-2015,Female,65 +,5,Aggravated assault,1301,36980
-2016,Female,65 +,5,Aggravated assault,1301,13900
-2017,Female,65 +,5,Aggravated assault,1301,12913
-2018,Female,65 +,5,Aggravated assault,1301,21557
-2019,Female,65 +,5,Aggravated assault,1301,27693
-2020,Female,65 +,5,Aggravated assault,1301,18008
-2021,Female,65 +,5,Aggravated assault,1301,31552
-2022,Female,65 +,5,Aggravated assault,1301,27416
-1993,Female,65 +,5,Simple assault,1313,57060
-1994,Female,65 +,5,Simple assault,1313,43077
-1995,Female,65 +,5,Simple assault,1313,52122
-1996,Female,65 +,5,Simple assault,1313,52109
-1997,Female,65 +,5,Simple assault,1313,67902
-1998,Female,65 +,5,Simple assault,1313,46466
-1999,Female,65 +,5,Simple assault,1313,57069
-2000,Female,65 +,5,Simple assault,1313,38542
-2001,Female,65 +,5,Simple assault,1313,85736
-2002,Female,65 +,5,Simple assault,1313,40582
-2003,Female,65 +,5,Simple assault,1313,20114
-2004,Female,65 +,5,Simple assault,1313,26345
-2005,Female,65 +,5,Simple assault,1313,21929
-2006,Female,65 +,5,Simple assault,1313,44430
-2007,Female,65 +,5,Simple assault,1313,35039
-2008,Female,65 +,5,Simple assault,1313,48642
-2009,Female,65 +,5,Simple assault,1313,59076
-2010,Female,65 +,5,Simple assault,1313,46865
-2011,Female,65 +,5,Simple assault,1313,74066
-2012,Female,65 +,5,Simple assault,1313,93659
-2013,Female,65 +,5,Simple assault,1313,45293
-2014,Female,65 +,5,Simple assault,1313,34705
-2015,Female,65 +,5,Simple assault,1313,119094
-2016,Female,65 +,5,Simple assault,1313,100277
-2017,Female,65 +,5,Simple assault,1313,126391
-2018,Female,65 +,5,Simple assault,1313,101597
-2019,Female,65 +,5,Simple assault,1313,81683
-2020,Female,65 +,5,Simple assault,1313,66542
-2021,Female,65 +,5,Simple assault,1313,109392
-2022,Female,65 +,5,Simple assault,1313,181253
+﻿rpt_dt,age_gm,ncic,vic_num
+1993,1,1101,47196
+1994,1,1101,49561
+1995,1,1101,38205
+1996,1,1101,28399
+1997,1,1101,50766
+1998,1,1101,49005
+1999,1,1101,56336
+2000,1,1101,37159
+2001,1,1101,59401
+2002,1,1101,61670
+2003,1,1101,0
+2004,1,1101,25343
+2005,1,1101,19843
+2006,1,1101,21770
+2007,1,1101,10454
+2008,1,1101,7891
+2009,1,1101,35538
+2010,1,1101,28145
+2011,1,1101,3961
+2012,1,1101,23289
+2013,1,1101,8103
+2014,1,1101,2267
+2015,1,1101,21922
+2016,1,1101,3829
+2017,1,1101,15968
+2018,1,1101,24633
+2019,1,1101,9935
+2020,1,1101,2707
+2021,1,1101,1387
+2022,1,1101,17101
+1993,1,1201,44832
+1994,1,1201,35269
+1995,1,1201,30451
+1996,1,1201,17217
+1997,1,1201,39928
+1998,1,1201,35945
+1999,1,1201,13268
+2000,1,1201,12344
+2001,1,1201,32397
+2002,1,1201,5073
+2003,1,1201,19164
+2004,1,1201,3194
+2005,1,1201,17213
+2006,1,1201,58123
+2007,1,1201,32676
+2008,1,1201,50902
+2009,1,1201,4359
+2010,1,1201,2092
+2011,1,1201,12603
+2012,1,1201,2145
+2013,1,1201,20314
+2014,1,1201,8413
+2015,1,1201,8440
+2016,1,1201,0
+2017,1,1201,3732
+2018,1,1201,8952
+2019,1,1201,0
+2020,1,1201,9341
+2021,1,1201,0
+2022,1,1201,9424
+1993,1,1301,135504
+1994,1,1301,96742
+1995,1,1301,64519
+1996,1,1301,59739
+1997,1,1301,85701
+1998,1,1301,109796
+1999,1,1301,69594
+2000,1,1301,26926
+2001,1,1301,28872
+2002,1,1301,22511
+2003,1,1301,34082
+2004,1,1301,30915
+2005,1,1301,19735
+2006,1,1301,40041
+2007,1,1301,11179
+2008,1,1301,41111
+2009,1,1301,64145
+2010,1,1301,23037
+2011,1,1301,22243
+2012,1,1301,9306
+2013,1,1301,17080
+2014,1,1301,25864
+2015,1,1301,34135
+2016,1,1301,35696
+2017,1,1301,7605
+2018,1,1301,13462
+2019,1,1301,8996
+2020,1,1301,0
+2021,1,1301,29634
+2022,1,1301,8474
+1993,1,1313,629099
+1994,1,1313,820235
+1995,1,1313,586566
+1996,1,1313,471253
+1997,1,1313,479545
+1998,1,1313,351818
+1999,1,1313,332784
+2000,1,1313,238282
+2001,1,1313,236647
+2002,1,1313,261782
+2003,1,1313,237402
+2004,1,1313,217255
+2005,1,1313,168663
+2006,1,1313,178711
+2007,1,1313,253120
+2008,1,1313,160767
+2009,1,1313,158245
+2010,1,1313,96362
+2011,1,1313,160120
+2012,1,1313,225055
+2013,1,1313,239922
+2014,1,1313,128468
+2015,1,1313,222088
+2016,1,1313,80781
+2017,1,1313,117664
+2018,1,1313,89676
+2019,1,1313,128891
+2020,1,1313,68326
+2021,1,1313,52102
+2022,1,1313,127470
+1993,1,1101,94319
+1994,1,1101,115622
+1995,1,1101,51609
+1996,1,1101,65477
+1997,1,1101,118910
+1998,1,1101,70442
+1999,1,1101,96714
+2000,1,1101,28949
+2001,1,1101,59293
+2002,1,1101,33999
+2003,1,1101,59204
+2004,1,1101,26549
+2005,1,1101,18493
+2006,1,1101,56009
+2007,1,1101,35327
+2008,1,1101,35633
+2009,1,1101,19692
+2010,1,1101,15670
+2011,1,1101,20995
+2012,1,1101,12060
+2013,1,1101,18266
+2014,1,1101,9114
+2015,1,1101,11784
+2016,1,1101,19819
+2017,1,1101,15970
+2018,1,1101,54576
+2019,1,1101,54359
+2020,1,1101,32946
+2021,1,1101,7492
+2022,1,1101,40823
+1993,1,1201,39822
+1994,1,1201,56467
+1995,1,1201,50030
+1996,1,1201,84660
+1997,1,1201,39039
+1998,1,1201,23938
+1999,1,1201,49313
+2000,1,1201,16315
+2001,1,1201,9757
+2002,1,1201,18388
+2003,1,1201,72650
+2004,1,1201,7760
+2005,1,1201,14826
+2006,1,1201,3470
+2007,1,1201,3959
+2008,1,1201,8964
+2009,1,1201,8691
+2010,1,1201,51317
+2011,1,1201,8598
+2012,1,1201,9338
+2013,1,1201,12840
+2014,1,1201,8614
+2015,1,1201,13425
+2016,1,1201,7363
+2017,1,1201,12449
+2018,1,1201,7964
+2019,1,1201,27361
+2020,1,1201,0
+2021,1,1201,8321
+2022,1,1201,1592
+1993,1,1301,90199
+1994,1,1301,135564
+1995,1,1301,126640
+1996,1,1301,128698
+1997,1,1301,93838
+1998,1,1301,72516
+1999,1,1301,104884
+2000,1,1301,28953
+2001,1,1301,50344
+2002,1,1301,30945
+2003,1,1301,104015
+2004,1,1301,23131
+2005,1,1301,48509
+2006,1,1301,60580
+2007,1,1301,152306
+2008,1,1301,16612
+2009,1,1301,28783
+2010,1,1301,48633
+2011,1,1301,25978
+2012,1,1301,9837
+2013,1,1301,29117
+2014,1,1301,18357
+2015,1,1301,9721
+2016,1,1301,12662
+2017,1,1301,20481
+2018,1,1301,24876
+2019,1,1301,9980
+2020,1,1301,39849
+2021,1,1301,8222
+2022,1,1301,21629
+1993,1,1313,370940
+1994,1,1313,348382
+1995,1,1313,415087
+1996,1,1313,381774
+1997,1,1313,449128
+1998,1,1313,309912
+1999,1,1313,497493
+2000,1,1313,312376
+2001,1,1313,300305
+2002,1,1313,309932
+2003,1,1313,262217
+2004,1,1313,136627
+2005,1,1313,278268
+2006,1,1313,315525
+2007,1,1313,166254
+2008,1,1313,139058
+2009,1,1313,128416
+2010,1,1313,56495
+2011,1,1313,107417
+2012,1,1313,202483
+2013,1,1313,226340
+2014,1,1313,154137
+2015,1,1313,74882
+2016,1,1313,53632
+2017,1,1313,117011
+2018,1,1313,99221
+2019,1,1313,141376
+2020,1,1313,45581
+2021,1,1313,21809
+2022,1,1313,98254
+1993,2,1101,150581
+1994,2,1101,81728
+1995,2,1101,61370
+1996,2,1101,41912
+1997,2,1101,46933
+1998,2,1101,53122
+1999,2,1101,88403
+2000,2,1101,69221
+2001,2,1101,80521
+2002,2,1101,83256
+2003,2,1101,11951
+2004,2,1101,38540
+2005,2,1101,35072
+2006,2,1101,37559
+2007,2,1101,24098
+2008,2,1101,52398
+2009,2,1101,4784
+2010,2,1101,13790
+2011,2,1101,32334
+2012,2,1101,62079
+2013,2,1101,42333
+2014,2,1101,14870
+2015,2,1101,35531
+2016,2,1101,40992
+2017,2,1101,101040
+2018,2,1101,122765
+2019,2,1101,87728
+2020,2,1101,60719
+2021,2,1101,56904
+2022,2,1101,70226
+1993,2,1201,34506
+1994,2,1201,43200
+1995,2,1201,24296
+1996,2,1201,71419
+1997,2,1201,56892
+1998,2,1201,45614
+1999,2,1201,45697
+2000,2,1201,22679
+2001,2,1201,15542
+2002,2,1201,19471
+2003,2,1201,16335
+2004,2,1201,20327
+2005,2,1201,58192
+2006,2,1201,29645
+2007,2,1201,12178
+2008,2,1201,21655
+2009,2,1201,11660
+2010,2,1201,29366
+2011,2,1201,26525
+2012,2,1201,13921
+2013,2,1201,18554
+2014,2,1201,4521
+2015,2,1201,19291
+2016,2,1201,4825
+2017,2,1201,20648
+2018,2,1201,17935
+2019,2,1201,5350
+2020,2,1201,34146
+2021,2,1201,41276
+2022,2,1201,15083
+1993,2,1301,135035
+1994,2,1301,104813
+1995,2,1301,124563
+1996,2,1301,118739
+1997,2,1301,152936
+1998,2,1301,64885
+1999,2,1301,79491
+2000,2,1301,42178
+2001,2,1301,68512
+2002,2,1301,67197
+2003,2,1301,106686
+2004,2,1301,86925
+2005,2,1301,33539
+2006,2,1301,57331
+2007,2,1301,21299
+2008,2,1301,59225
+2009,2,1301,32639
+2010,2,1301,67154
+2011,2,1301,52787
+2012,2,1301,46475
+2013,2,1301,35808
+2014,2,1301,14016
+2015,2,1301,18466
+2016,2,1301,16211
+2017,2,1301,44730
+2018,2,1301,18338
+2019,2,1301,23504
+2020,2,1301,20597
+2021,2,1301,9736
+2022,2,1301,97415
+1993,2,1313,342448
+1994,2,1313,411872
+1995,2,1313,484182
+1996,2,1313,407416
+1997,2,1313,364448
+1998,2,1313,416007
+1999,2,1313,289706
+2000,2,1313,218516
+2001,2,1313,190670
+2002,2,1313,270649
+2003,2,1313,279629
+2004,2,1313,193032
+2005,2,1313,150625
+2006,2,1313,240745
+2007,2,1313,194968
+2008,2,1313,115732
+2009,2,1313,118870
+2010,2,1313,141896
+2011,2,1313,291840
+2012,2,1313,156266
+2013,2,1313,182762
+2014,2,1313,66173
+2015,2,1313,81604
+2016,2,1313,64411
+2017,2,1313,96278
+2018,2,1313,226274
+2019,2,1313,166145
+2020,2,1313,62516
+2021,2,1313,71029
+2022,2,1313,43017
+1993,2,1101,159460
+1994,2,1101,62656
+1995,2,1101,56703
+1996,2,1101,56034
+1997,2,1101,48049
+1998,2,1101,73980
+1999,2,1101,48424
+2000,2,1101,75478
+2001,2,1101,53164
+2002,2,1101,27628
+2003,2,1101,87777
+2004,2,1101,32958
+2005,2,1101,15038
+2006,2,1101,71203
+2007,2,1101,46942
+2008,2,1101,28488
+2009,2,1101,120398
+2010,2,1101,68769
+2011,2,1101,24111
+2012,2,1101,14276
+2013,2,1101,19530
+2014,2,1101,63500
+2015,2,1101,19899
+2016,2,1101,19094
+2017,2,1101,37284
+2018,2,1101,81179
+2019,2,1101,91291
+2020,2,1101,58544
+2021,2,1101,47747
+2022,2,1101,57210
+1993,2,1201,84138
+1994,2,1201,85052
+1995,2,1201,53685
+1996,2,1201,53901
+1997,2,1201,33175
+1998,2,1201,58050
+1999,2,1201,21295
+2000,2,1201,56582
+2001,2,1201,14790
+2002,2,1201,44863
+2003,2,1201,68675
+2004,2,1201,17436
+2005,2,1201,20234
+2006,2,1201,33273
+2007,2,1201,28803
+2008,2,1201,44467
+2009,2,1201,17624
+2010,2,1201,37479
+2011,2,1201,25770
+2012,2,1201,49715
+2013,2,1201,19556
+2014,2,1201,33484
+2015,2,1201,60517
+2016,2,1201,46849
+2017,2,1201,32832
+2018,2,1201,19874
+2019,2,1201,20140
+2020,2,1201,43934
+2021,2,1201,16536
+2022,2,1201,24924
+1993,2,1301,152189
+1994,2,1301,136311
+1995,2,1301,125763
+1996,2,1301,160513
+1997,2,1301,124791
+1998,2,1301,142042
+1999,2,1301,57861
+2000,2,1301,52019
+2001,2,1301,43006
+2002,2,1301,128157
+2003,2,1301,63394
+2004,2,1301,70472
+2005,2,1301,126972
+2006,2,1301,114522
+2007,2,1301,28909
+2008,2,1301,63952
+2009,2,1301,80623
+2010,2,1301,49348
+2011,2,1301,50220
+2012,2,1301,36981
+2013,2,1301,27331
+2014,2,1301,40876
+2015,2,1301,38712
+2016,2,1301,50245
+2017,2,1301,79602
+2018,2,1301,50054
+2019,2,1301,49194
+2020,2,1301,30010
+2021,2,1301,39545
+2022,2,1301,93662
+1993,2,1313,506603
+1994,2,1313,620518
+1995,2,1313,561957
+1996,2,1313,465148
+1997,2,1313,556624
+1998,2,1313,472725
+1999,2,1313,373239
+2000,2,1313,294061
+2001,2,1313,328601
+2002,2,1313,195865
+2003,2,1313,336617
+2004,2,1313,316705
+2005,2,1313,237308
+2006,2,1313,299442
+2007,2,1313,223860
+2008,2,1313,314803
+2009,2,1313,192480
+2010,2,1313,124397
+2011,2,1313,142261
+2012,2,1313,235027
+2013,2,1313,243193
+2014,2,1313,151818
+2015,2,1313,134137
+2016,2,1313,200902
+2017,2,1313,138664
+2018,2,1313,161460
+2019,2,1313,181316
+2020,2,1313,110809
+2021,2,1313,62649
+2022,2,1313,196127
+1993,3,1101,177894
+1994,3,1101,212186
+1995,3,1101,77800
+1996,3,1101,110576
+1997,3,1101,112184
+1998,3,1101,59606
+1999,3,1101,113690
+2000,3,1101,73265
+2001,3,1101,38566
+2002,3,1101,21065
+2003,3,1101,69502
+2004,3,1101,27416
+2005,3,1101,25349
+2006,3,1101,49188
+2007,3,1101,47081
+2008,3,1101,50686
+2009,3,1101,29435
+2010,3,1101,51661
+2011,3,1101,39776
+2012,3,1101,32397
+2013,3,1101,55279
+2014,3,1101,88461
+2015,3,1101,134949
+2016,3,1101,102028
+2017,3,1101,48616
+2018,3,1101,154997
+2019,3,1101,43724
+2020,3,1101,64003
+2021,3,1101,90031
+2022,3,1101,87888
+1993,3,1201,254643
+1994,3,1201,134422
+1995,3,1201,144217
+1996,3,1201,169478
+1997,3,1201,97196
+1998,3,1201,78311
+1999,3,1201,79528
+2000,3,1201,73339
+2001,3,1201,56386
+2002,3,1201,69468
+2003,3,1201,52371
+2004,3,1201,104522
+2005,3,1201,29796
+2006,3,1201,119981
+2007,3,1201,135622
+2008,3,1201,94166
+2009,3,1201,74752
+2010,3,1201,47419
+2011,3,1201,42821
+2012,3,1201,71854
+2013,3,1201,96630
+2014,3,1201,44419
+2015,3,1201,36500
+2016,3,1201,46991
+2017,3,1201,54376
+2018,3,1201,51512
+2019,3,1201,40266
+2020,3,1201,41128
+2021,3,1201,60664
+2022,3,1201,73217
+1993,3,1301,311796
+1994,3,1301,451111
+1995,3,1301,291409
+1996,3,1301,274484
+1997,3,1301,244596
+1998,3,1301,170444
+1999,3,1301,213536
+2000,3,1301,108539
+2001,3,1301,133113
+2002,3,1301,158790
+2003,3,1301,117048
+2004,3,1301,78565
+2005,3,1301,115012
+2006,3,1301,165333
+2007,3,1301,82778
+2008,3,1301,130832
+2009,3,1301,71589
+2010,3,1301,77095
+2011,3,1301,124367
+2012,3,1301,124571
+2013,3,1301,77783
+2014,3,1301,63396
+2015,3,1301,68226
+2016,3,1301,157967
+2017,3,1301,97867
+2018,3,1301,114359
+2019,3,1301,68500
+2020,3,1301,111091
+2021,3,1301,72262
+2022,3,1301,130791
+1993,3,1313,998892
+1994,3,1313,1286595
+1995,3,1313,1239149
+1996,3,1313,1095489
+1997,3,1313,910561
+1998,3,1313,755624
+1999,3,1313,778426
+2000,3,1313,620361
+2001,3,1313,503624
+2002,3,1313,529346
+2003,3,1313,502278
+2004,3,1313,389517
+2005,3,1313,357115
+2006,3,1313,565934
+2007,3,1313,380894
+2008,3,1313,422539
+2009,3,1313,434064
+2010,3,1313,404074
+2011,3,1313,295435
+2012,3,1313,443711
+2013,3,1313,374174
+2014,3,1313,390481
+2015,3,1313,298816
+2016,3,1313,432634
+2017,3,1313,384580
+2018,3,1313,541494
+2019,3,1313,349879
+2020,3,1313,310395
+2021,3,1313,219449
+2022,3,1313,454143
+1993,3,1101,185272
+1994,3,1101,91764
+1995,3,1101,203254
+1996,3,1101,87286
+1997,3,1101,117908
+1998,3,1101,51725
+1999,3,1101,141550
+2000,3,1101,50027
+2001,3,1101,126838
+2002,3,1101,44954
+2003,3,1101,40015
+2004,3,1101,60178
+2005,3,1101,47883
+2006,3,1101,98489
+2007,3,1101,59487
+2008,3,1101,120604
+2009,3,1101,56751
+2010,3,1101,72533
+2011,3,1101,42221
+2012,3,1101,50630
+2013,3,1101,47099
+2014,3,1101,61752
+2015,3,1101,65949
+2016,3,1101,40599
+2017,3,1101,114293
+2018,3,1101,163618
+2019,3,1101,75740
+2020,3,1101,43509
+2021,3,1101,36838
+2022,3,1101,83151
+1993,3,1201,105851
+1994,3,1201,197421
+1995,3,1201,141333
+1996,3,1201,106384
+1997,3,1201,152247
+1998,3,1201,132217
+1999,3,1201,156954
+2000,3,1201,76144
+2001,3,1201,51306
+2002,3,1201,34951
+2003,3,1201,63670
+2004,3,1201,56401
+2005,3,1201,44376
+2006,3,1201,110007
+2007,3,1201,78239
+2008,3,1201,88691
+2009,3,1201,75486
+2010,3,1201,41381
+2011,3,1201,57497
+2012,3,1201,35449
+2013,3,1201,64370
+2014,3,1201,50783
+2015,3,1201,113399
+2016,3,1201,29865
+2017,3,1201,70508
+2018,3,1201,85861
+2019,3,1201,55384
+2020,3,1201,32435
+2021,3,1201,84565
+2022,3,1201,76603
+1993,3,1301,224062
+1994,3,1301,267590
+1995,3,1301,174275
+1996,3,1301,221656
+1997,3,1301,320874
+1998,3,1301,193402
+1999,3,1301,172128
+2000,3,1301,121232
+2001,3,1301,182056
+2002,3,1301,142391
+2003,3,1301,111303
+2004,3,1301,155120
+2005,3,1301,103622
+2006,3,1301,194310
+2007,3,1301,135943
+2008,3,1301,101899
+2009,3,1301,56888
+2010,3,1301,61031
+2011,3,1301,106947
+2012,3,1301,149377
+2013,3,1301,79212
+2014,3,1301,142914
+2015,3,1301,133287
+2016,3,1301,115106
+2017,3,1301,99571
+2018,3,1301,129637
+2019,3,1301,94676
+2020,3,1301,97169
+2021,3,1301,106353
+2022,3,1301,190414
+1993,3,1313,1276452
+1994,3,1313,1221244
+1995,3,1313,1006091
+1996,3,1313,1052924
+1997,3,1313,1178054
+1998,3,1313,959667
+1999,3,1313,825566
+2000,3,1313,568297
+2001,3,1313,593522
+2002,3,1313,663480
+2003,3,1313,529703
+2004,3,1313,623576
+2005,3,1313,556881
+2006,3,1313,542373
+2007,3,1313,521298
+2008,3,1313,505086
+2009,3,1313,572958
+2010,3,1313,388458
+2011,3,1313,433210
+2012,3,1313,536435
+2013,3,1313,420533
+2014,3,1313,391085
+2015,3,1313,568916
+2016,3,1313,502567
+2017,3,1313,461122
+2018,3,1313,449497
+2019,3,1313,429830
+2020,3,1313,397779
+2021,3,1313,420808
+2022,3,1313,529626
+1993,4,1101,8155
+1994,4,1101,4311
+1995,4,1101,2543
+1996,4,1101,3482
+1997,4,1101,6464
+1998,4,1101,7836
+1999,4,1101,7007
+2000,4,1101,13256
+2001,4,1101,7604
+2002,4,1101,25898
+2003,4,1101,34217
+2004,4,1101,35867
+2005,4,1101,31002
+2006,4,1101,25630
+2007,4,1101,8806
+2008,4,1101,5126
+2009,4,1101,13417
+2010,4,1101,0
+2011,4,1101,16362
+2012,4,1101,14981
+2013,4,1101,69976
+2014,4,1101,13736
+2015,4,1101,69218
+2016,4,1101,19949
+2017,4,1101,20612
+2018,4,1101,35354
+2019,4,1101,38278
+2020,4,1101,25995
+2021,4,1101,32915
+2022,4,1101,48236
+1993,4,1201,27137
+1994,4,1201,36068
+1995,4,1201,21427
+1996,4,1201,51646
+1997,4,1201,22296
+1998,4,1201,28462
+1999,4,1201,25038
+2000,4,1201,24070
+2001,4,1201,38014
+2002,4,1201,34628
+2003,4,1201,31469
+2004,4,1201,51301
+2005,4,1201,17921
+2006,4,1201,14081
+2007,4,1201,26240
+2008,4,1201,17836
+2009,4,1201,27357
+2010,4,1201,51830
+2011,4,1201,36021
+2012,4,1201,50169
+2013,4,1201,61388
+2014,4,1201,99407
+2015,4,1201,36776
+2016,4,1201,54208
+2017,4,1201,64366
+2018,4,1201,39851
+2019,4,1201,58012
+2020,4,1201,29838
+2021,4,1201,39083
+2022,4,1201,76455
+1993,4,1301,58907
+1994,4,1301,85185
+1995,4,1301,61331
+1996,4,1301,92963
+1997,4,1301,36389
+1998,4,1301,85502
+1999,4,1301,55533
+2000,4,1301,31853
+2001,4,1301,41684
+2002,4,1301,31478
+2003,4,1301,26193
+2004,4,1301,78677
+2005,4,1301,51414
+2006,4,1301,108518
+2007,4,1301,37717
+2008,4,1301,36671
+2009,4,1301,126294
+2010,4,1301,42671
+2011,4,1301,65516
+2012,4,1301,29916
+2013,4,1301,109246
+2014,4,1301,112840
+2015,4,1301,118747
+2016,4,1301,80460
+2017,4,1301,83004
+2018,4,1301,82799
+2019,4,1301,89187
+2020,4,1301,63136
+2021,4,1301,39120
+2022,4,1301,99387
+1993,4,1313,161781
+1994,4,1313,256016
+1995,4,1313,247961
+1996,4,1313,239614
+1997,4,1313,196175
+1998,4,1313,244351
+1999,4,1313,238899
+2000,4,1313,329881
+2001,4,1313,169989
+2002,4,1313,260402
+2003,4,1313,281108
+2004,4,1313,228499
+2005,4,1313,228399
+2006,4,1313,269025
+2007,4,1313,244689
+2008,4,1313,273550
+2009,4,1313,270618
+2010,4,1313,277050
+2011,4,1313,218198
+2012,4,1313,358867
+2013,4,1313,397078
+2014,4,1313,344152
+2015,4,1313,296313
+2016,4,1313,393345
+2017,4,1313,390504
+2018,4,1313,400048
+2019,4,1313,484664
+2020,4,1313,370900
+2021,4,1313,379414
+2022,4,1313,296002
+1993,5,1101,11837
+1994,5,1101,0
+1995,5,1101,1975
+1996,5,1101,0
+1997,5,1101,5848
+1998,5,1101,0
+1999,5,1101,0
+2000,5,1101,4625
+2001,5,1101,4001
+2002,5,1101,4474
+2003,5,1101,2973
+2004,5,1101,2717
+2005,5,1101,0
+2006,5,1101,0
+2007,5,1101,4786
+2008,5,1101,9275
+2009,5,1101,5744
+2010,5,1101,2987
+2011,5,1101,29625
+2012,5,1101,5858
+2013,5,1101,5522
+2014,5,1101,2612
+2015,5,1101,9668
+2016,5,1101,6237
+2017,5,1101,9611
+2018,5,1101,15554
+2019,5,1101,5915
+2020,5,1101,10205
+2021,5,1101,8729
+2022,5,1101,38118
+1993,5,1201,18104
+1994,5,1201,17156
+1995,5,1201,17699
+1996,5,1201,19546
+1997,5,1201,8131
+1998,5,1201,6164
+1999,5,1201,8811
+2000,5,1201,15783
+2001,5,1201,22220
+2002,5,1201,20562
+2003,5,1201,18451
+2004,5,1201,4335
+2005,5,1201,6162
+2006,5,1201,17867
+2007,5,1201,12886
+2008,5,1201,2529
+2009,5,1201,5386
+2010,5,1201,5229
+2011,5,1201,7914
+2012,5,1201,11503
+2013,5,1201,2755
+2014,5,1201,19026
+2015,5,1201,7819
+2016,5,1201,465
+2017,5,1201,10569
+2018,5,1201,20447
+2019,5,1201,14434
+2020,5,1201,14279
+2021,5,1201,20154
+2022,5,1201,56878
+1993,5,1301,36930
+1994,5,1301,28417
+1995,5,1301,6775
+1996,5,1301,9102
+1997,5,1301,9420
+1998,5,1301,6001
+1999,5,1301,16582
+2000,5,1301,12510
+2001,5,1301,21789
+2002,5,1301,4482
+2003,5,1301,4342
+2004,5,1301,2378
+2005,5,1301,4741
+2006,5,1301,5407
+2007,5,1301,5825
+2008,5,1301,7096
+2009,5,1301,2057
+2010,5,1301,1223
+2011,5,1301,5058
+2012,5,1301,16531
+2013,5,1301,13070
+2014,5,1301,13757
+2015,5,1301,36980
+2016,5,1301,13900
+2017,5,1301,12913
+2018,5,1301,21557
+2019,5,1301,27693
+2020,5,1301,18008
+2021,5,1301,31552
+2022,5,1301,27416
+1993,5,1313,57060
+1994,5,1313,43077
+1995,5,1313,52122
+1996,5,1313,52109
+1997,5,1313,67902
+1998,5,1313,46466
+1999,5,1313,57069
+2000,5,1313,38542
+2001,5,1313,85736
+2002,5,1313,40582
+2003,5,1313,20114
+2004,5,1313,26345
+2005,5,1313,21929
+2006,5,1313,44430
+2007,5,1313,35039
+2008,5,1313,48642
+2009,5,1313,59076
+2010,5,1313,46865
+2011,5,1313,74066
+2012,5,1313,93659
+2013,5,1313,45293
+2014,5,1313,34705
+2015,5,1313,119094
+2016,5,1313,100277
+2017,5,1313,126391
+2018,5,1313,101597
+2019,5,1313,81683
+2020,5,1313,66542
+2021,5,1313,109392
+2022,5,1313,181253
