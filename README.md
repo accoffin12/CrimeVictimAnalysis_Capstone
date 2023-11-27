@@ -1,6 +1,6 @@
 # Utilizing K-Means, DBSCAN and Hierarchy Analysis to Improve Crime Prevention Through the Examination of Victimology Data
 ## A. C. Coffin 
-### 11/10/2023
+### October 2023
 ---
 
 ## Introduction:
@@ -23,8 +23,9 @@ This project was created to demonstrated the exploration into the developement o
 ## Prerequisites:
 1. Git
 2. Python 3.7 (3.11+ preferred)
-3. VS Code Editor
-4. VS Code Extesion: Python (by Microsoft)
+3. Jupyter Notebooks
+4. VS Code Editor
+5. VS Code Extesion: Python (by Microsoft)
 
 ## Installation:
 The following instructions allow for the instalation of packages and creation of an enviroment to run this notebook.
@@ -53,16 +54,34 @@ from sklearn.metrics import davies_bouldin_score
 from sklearn.preprocessing import StandardScaler
 from yellowbrick.cluster import SilhouetteVisualizer
 ```
-Use the following command to create an enviroment, when promted in VS Code to set the .env to a workspace folder, select yes.
+1. Clone the repository to your local machine and navigate the project direvtory. Use the following command to create an enviroment, when promted in VS Code to set the .env to a workspace folder, select yes.
 
 ```
 python -m venv .venv
 ```
-Once created, activate the enviroment using the following call:
+2. Once created, activate the enviroment using the following call:
 ```
 .venv\Scripts\activate
 ```
-Once activate be sure all packages are installed, this includes yellow brick.
+3. Check that all packages are installed, this includes yellow brick. 
+4. Refer to README.md for additional information and recomented tutorials.
+5. Use the following steps to begin coding. 
+    a. Aquire the data source
+    b. Crime Victim Data Exploration Analysis
+    c. KMeans Clustering Models Developed for Predictive Modeling
+        - Import the Data from ML_PreProcess
+        - Scaling the Data
+        - Designing the KMeans Model
+        - Creating visualizations
+        - Model Evaluation
+    d. NYPD DBSCAN Clustering
+        - Import the Data from ML_PreProcess 
+        - Determining Data Characteristics
+        - Building the Model
+        - Visualizations & Evaluating the Model
+    e. Discussion
+    f. Limitations & Future Works
+    g. Conclusion
 
 Note: When running the yellowbrick portions of this notebook, coment out the imports for matplotlib and seaborn. These two will interfear with Yellowbrick when run and result in all of the plots using these two libraries to not function correctly.
 
@@ -108,19 +127,19 @@ Each of these files is located in the Data Folder and then within the following 
     - NYPD_Complaint_Data_Current__Year_To_Date__20231024.csv
 
 ### Data:
-- NatFlow_AgeTypev1.csv 
-- NCVS_AgeSeg.csv 
-- NCVS_RegionSegv1.csv 
-- NCVS_Regionv1.csv 
-- NYPD_AgeVCrime.csv 
-- NYPDv3.csv
+    - NatFlow_AgeTypev1.csv 
+    - NCVS_AgeSeg.csv 
+    - NCVS_RegionSegv1.csv 
+    - NCVS_Regionv1.csv 
+    - NYPD_AgeVCrime.csv 
+    - NYPDv3.csv
 
 ### ML_PreProcess:
-- ML_PreProcess/NCVS_AgeSegML.csv 
-- ML_PreProcess/NCVS_AgeTypeML.csv 
-- ML_PreProcess/NCVS_RegionSegML.csv 
-- ML_PreProcess/NYPD_AgeSegML.csv 
-- ML_PreProcess/NYPDv4ML.csv
+    - ML_PreProcess/NCVS_AgeSegML.csv 
+    - ML_PreProcess/NCVS_AgeTypeML.csv 
+    - ML_PreProcess/NCVS_RegionSegML.csv 
+    - ML_PreProcess/NYPD_AgeSegML.csv 
+    - ML_PreProcess/NYPDv4ML.csv
 
 ### Graphics:
 Contains Copites of all the graphs created, include the Geogrpahica Scatter plots for KMeans and DBSCAN.
@@ -129,7 +148,7 @@ Contains Copites of all the graphs created, include the Geogrpahica Scatter plot
 Each of the Notebooks has been also provide as an HTML file for reference. 
 
 ### Paper: 
-* Coffin_ClusteringFemaleVictimology.pdf
+    - Coffin_ClusteringFemaleVictimology.pdf
 
 ## Deployment:
 
@@ -145,7 +164,7 @@ During the process of currating the data and building the models, some of the ch
 While creating models, there were several challenges working the NCVS data into DBSCAN and resulted in only the NYPD data being analysized. Another project utilizing a larger data set from the National Inciden Based Reporting System (NIBRS) data will be required for a more accurate approach to both DBSCAN models and developing a National Baseline as a clearer point of comparison.
 
 ## Results:
-
+For detailed findings please refer to [Coffin_ClusteringFemaleVictimology.pdf](\Coffin_ClusteringFemaleVictimology.pdf).  
 
 ## Credits:
 I would like to acknowlege Stackoverflow, ChatGPT and Andy McDonald's [andymcdgeo](https://github.com/andymcdgeo) tutorials on ["Creating Geospatial Heatmaps With Plotly Express MapBox and Folium in Python - Data Visualisation"](https://www.youtube.com/watch?v=vSGWmZre31A) and ["K-Means Clustering Algorithm with Python Tutorial"](https://www.youtube.com/watch?v=iNlZ3IU5Ffw)
@@ -170,7 +189,7 @@ how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs
 10. of Justice Statistics, B.: Data collection: National crime victimization
 survey (ncvs), https://www.bjs.gov/index.cfm/content/pub/ascii/content/
 data/index.cfm?ty=dcdetail&iid=245
-11. Kang, H.W., Kang, H.B.: Prediction of crime occurrence from multimodal data using deep learning. PLOS ONE 12(4), e0176244 (apr 2017).
+11. Kang, H.W., Kang, H.B.: Prediction of crime occurrence from multi-modal data using deep learning. PLOS ONE 12(4), e0176244 (apr 2017).
 https://doi.org/10.1371/journal.pone.0176244, https://doi.org/10.1371%
 2Fjournal.pone.0176244
 12. NYPD: Nypd complaint data historic, https://data.cityofnewyork.us/
