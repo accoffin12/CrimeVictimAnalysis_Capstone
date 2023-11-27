@@ -7,14 +7,14 @@
 This project was created to demonstrated the exploration into the developement of machine learning models capable of predicting groups of women at risk geographically and provide an increased awareness of crime in America. The three parameters being examined in this project are age, crime type, and geographical location when discussing female victimology. This project was developed as a way to detect patterns among female victims both on a social level through the use of KMeans Clustering and on a geographical model using DBSCAN. Crime among female victims is complex, but understanding the general relationship between these factors and the crimes that femal victims experience can aid in imporivng crime prevention stratages both regionally and socially. Two clustering models were utilized to demonstrate the application of these models to victim data as well as examine the relationship between these three aspects on both a National and City level. 
 
 ## Table of Contents:
-- [Prerequisites] * prerequisites
-- [Instalation] * instalation
-- [Data_Sources] * Data_Sources
-- [Files] * files
-- [Deployment] * deployment
-- [Challenges] * Challenges
-- [Results] * Results
-- [Credits] * Credits
+- [Prerequisites](#Prerequisites)
+- [Instalation](#Instalation)
+- [Data_Sources](#Data_Sources)
+- [Files](#Files)
+- [Deployment](#Deployment)
+- [Challenges](#Challenges)
+- [Results](#Results)
+- [Credits](#Credits)
 
 ## Prerequisites:
 1. Git
@@ -142,4 +142,6 @@ While creating models, there were several challenges working the NCVS data into 
 
 ## Results:
 
+
 ## Credits:
+I would like to acknowlege Stackoverflow, ChatGPT and Andy McDonald's [andymcdgeo](https://github.com/andymcdgeo) tutorials on ["Creating Geospatial Heatmaps With Plotly Express MapBox and Folium in Python - Data Visualisation"](https://www.youtube.com/watch?v=vSGWmZre31A)
