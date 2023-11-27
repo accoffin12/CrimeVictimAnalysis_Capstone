@@ -11,10 +11,14 @@ This project was created to demonstrated the exploration into the developement o
 - [Instalation](#Instalation)
 - [Data_Sources](#Data_Sources)
 - [Files](#Files)
+    -[Raw Data](#raw-data)
+    -[Data](#Data)
+    -[ML_PreProcess](#ml_preprocess)
 - [Deployment](#Deployment)
 - [Challenges](#Challenges)
 - [Results](#Results)
 - [Credits](#Credits)
+- [References](#references)
 
 ## Prerequisites:
 1. Git
@@ -72,7 +76,7 @@ This project uses a combination of sources, each of them has been linked bellow 
 Each of these files is located in the Data Folder and then within the following subfolders:
 
 ### Raw Data:
-* NCVS_Regional:
+#### NCVS_Regional:
     - Number of violent victimizations by crime type, 1996-2022--Sex_ female--Region_ Midwest.csv
     - Number of violent victimizations by crime type, 1996-2022--Sex_ female--Region_ Northeast.csv
     - Number of violent victimizations by crime type, 1996-2022--Sex_ female--Region_ South.csv
@@ -82,7 +86,7 @@ Each of these files is located in the Data Folder and then within the following 
     - Number of violent victimizations, 1996-2022--Sex_ female--Region_ Midwest.csv
     - Number of violent victimizations, 1996-2022--Sex_ female--Region_ Northeast (1).csv
     - Number of violent victimizations, 1996-2022--Sex_ female--Region_ South.csv>
-* NCVS_CrimeType:
+#### NCVS_CrimeType:
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 65 or older.csv
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 12 to 14.csv
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 15 to 17.csv
@@ -91,7 +95,7 @@ Each of these files is located in the Data Folder and then within the following 
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 25 to 34.csv
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 35 to 49.csv
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 50 to 64.csv
-* NCVS_Age_Seg:
+#### NCVS_Age_Seg:
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 65 or older.csv
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 12 to 14.csv
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 15 to 17.csv
@@ -100,7 +104,7 @@ Each of these files is located in the Data Folder and then within the following 
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 25 to 34.csv
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 35 to 49.csv
     - Number of violent victimizations by crime type, 1993-2022--Sex_ female--Age_ 50 to 64.csv
-* NYPD:
+#### NYPD:
     - NYPD_Complaint_Data_Current__Year_To_Date__20231024.csv
 
 ### Data:
@@ -144,4 +148,30 @@ While creating models, there were several challenges working the NCVS data into 
 
 
 ## Credits:
-I would like to acknowlege Stackoverflow, ChatGPT and Andy McDonald's [andymcdgeo](https://github.com/andymcdgeo) tutorials on ["Creating Geospatial Heatmaps With Plotly Express MapBox and Folium in Python - Data Visualisation"](https://www.youtube.com/watch?v=vSGWmZre31A)
+I would like to acknowlege Stackoverflow, ChatGPT and Andy McDonald's [andymcdgeo](https://github.com/andymcdgeo) tutorials on ["Creating Geospatial Heatmaps With Plotly Express MapBox and Folium in Python - Data Visualisation"](https://www.youtube.com/watch?v=vSGWmZre31A) and ["K-Means Clustering Algorithm with Python Tutorial"](https://www.youtube.com/watch?v=iNlZ3IU5Ffw)
+
+## References:
+1. Coffin, A.: Crimevictimanalysis capstone, https://github.com/accoffin12/
+CrimeVictimAnalysis_Capstone/tree/main
+2. scikit-learn developers: sklearn.cluster.dbscan, https://scikit-learn.
+org/stable/modules/generated/sklearn.cluster.DBSCAN.html#
+sklearn-cluster-dbscan
+3. Doerner, W.G., Lab, S.P.: Measuring Criminal Victimization. Routledge (2017)
+4. Doerner, W.G., Lab, S.P.: The Scope of Victimology. Routledge (2017)
+5. FBI: Crime data explorer, https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/
+explorer/crime/crime-trend
+6. FBI: National incident-based reporting system (nibrs), https://www.fbi.gov/
+how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs
+7. Geron, A.: Unsupervised Learning Techniques. O’Reilly (2017)
+8. Geron, A.: Unsupervised Learning Techniques. O’Reilly (2023)
+9. of Justice Statistics, B.: Custom graphics: Multi-year trends: Crime type, https:
+//ncvs.bjs.ojp.gov/multi-year-trends/crimeType
+24 A. Coffin.
+10. of Justice Statistics, B.: Data collection: National crime victimization
+survey (ncvs), https://www.bjs.gov/index.cfm/content/pub/ascii/content/
+data/index.cfm?ty=dcdetail&iid=245
+11. Kang, H.W., Kang, H.B.: Prediction of crime occurrence from multimodal data using deep learning. PLOS ONE 12(4), e0176244 (apr 2017).
+https://doi.org/10.1371/journal.pone.0176244, https://doi.org/10.1371%
+2Fjournal.pone.0176244
+12. NYPD: Nypd complaint data historic, https://data.cityofnewyork.us/
+Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
