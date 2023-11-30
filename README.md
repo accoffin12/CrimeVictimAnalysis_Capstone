@@ -167,7 +167,7 @@ While creating models, there were several challenges working the NCVS data into 
 For detailed findings please refer to [Coffin_ClusteringFemaleVictimology.pdf](\Coffin_ClusteringFemaleVictimology.pdf) or the following link [Overleaf Project](https://www.overleaf.com/read/gjnmzbzgnftd#6969b0).
 
 ## Credits:
-I would like to acknowledge Stackoverflow, ChatGPT, and Andy McDonald's [andymcdgeo](https://github.com/andymcdgeo) tutorials on ["Creating Geospatial Heatmaps With Plotly Express MapBox and Folium in Python - Data Visualisation"](https://www.youtube.com/watch?v=vSGWmZre31A) and ["K-Means Clustering Algorithm with Python Tutorial"](https://www.youtube.com/watch?v=iNlZ3IU5Ffw)
+I would like to acknowledge Stackoverflow, ChatGPT, and Andy McDonald's [andymcdgeo](https://github.com/andymcdgeo) tutorials on ["Creating Geospatial Heatmaps With Plotly Express MapBox and Folium in Python - Data Visualisation"](https://www.youtube.com/watch?v=vSGWmZre31A), ["K-Means Clustering Algorithm with Python Tutorial"](https://www.youtube.com/watch?v=iNlZ3IU5Ffw) and Greg Hogg [gahogg](https://github.com/gahogg) tutorial on ["DBSCAN Clustering Coding Tutorial in Python & Scikit-Learn"](https://youtu.be/VO_uzCU_nKw?si=khlUf7E2cfOaX9B4)
 
 ## References:
 1. Coffin, A.: Crimevictimanalysis capstone, https://github.com/accoffin12/
